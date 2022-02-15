@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>..::Mata MOsca::..</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="estilo.css">
+
+    <script>
+        function pegarNivel () {
+            var nivel = document.getElementById("nivel").value
+
+            if (nivel === "" ){
+
+                alert("Selecione um nível para começar o jogo")
+                return false
+            }
+///envio d eparâmetro para  aoutra página
+            window.location.href="jogo.html?" + nivel
+        }
+    </script>
+</head>
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="d-flex justify-content-center">
+                    <img src="imagens/game.png"/>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <div class="d-flex justify-content-center">
+                    <div class="mb-2">
+                        <select class="form-control" id="nivel" >
+                            <option value="">---INiciar o Jogo-----</option>
+                            <option value="normal">Normal</option>
+                            <option value="foda">Foda</option>
+                            <option value="complicado">Complicado</option>
+
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="row">
+            <div class="col">
+                <div class="d-flex justify-content-center">
+                    <button type="button" class="btn btn-danger btn-lg" onclick="pegarNivel()"> Iniciar Jogo </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!DOCTYPE html>
+<html>
+<head>
+	<title> </title>
+	<script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+
+
+	<script type="text/babel">
+		const getMessage = () => "Hello World";
+		document.getElementById('output').innerHTML = getMessage();
+	</script>
+</head>
+<body>
+	<div id="output"></div>
+
+</body>
+</html>
+    
+</body>
+</html>

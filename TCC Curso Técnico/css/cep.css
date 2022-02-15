@@ -1,0 +1,128 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 30/04/2019, 11:12:25
+    Author     : 
+*/
+header {
+	border: 3px solid black;
+}
+table.lista{
+    margin: 0 auto;
+}
+
+table.lista td{
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+table.lista th{
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+table.lista tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+#menu_principal{
+	background-color: #003366;
+	font-size: 1em; /* tamanho da fonte do menu */	
+	display: block;
+	float: left;
+	margin: 0;
+	width: 100%;
+	height: 2.75em;
+}
+#menu_principal .menu {
+	margin-left: 12px;
+	width: 100%;
+}
+#menu_principal .menu ul {
+	list-style: none;
+	margin: 0;
+}
+#menu_principal .menu li {
+	float: left;
+	position: relative;
+}
+#menu_principal .menu a{
+	color: #fff;
+	display: block;
+	line-height: 38px;
+	padding: 0 12px;
+	text-decoration: none;
+}
+#menu_principal .menu ul li{
+	border-left: 1px solid #fff;
+	border-right: 1px solid #d3defa;
+}
+#menu_principal .menu ul li:first-child{
+	border-left: none;
+}
+#menu_principal .menu ul li:last-child{
+	border-right: none;
+}
+#menu_principal .menu ul ul li{
+	border-left: none;
+	border-right: none;
+}
+
+#menu_principal .menu ul ul{
+	display: none;
+	position: absolute;
+	top: 38px;
+	left: 0;
+	float: left;
+	width: 13.8em;
+	z-index: 99999;
+}
+#menu_principal .menu ul ul li{
+	min-width: 13.8em;
+}
+#menu_principal .menu ul ul ul{
+	left: 100%;
+	top: 0;
+}
+#menu_principal .menu ul ul a{
+	background-color:#003366;
+	border-top: 1px solid #fff;
+	line-height: 1em;
+	padding: 10px;
+	width: 13.8em;
+	height: auto;
+}
+#menu_principal .menu li:hover > a,
+#menu_principal .menu ul ul :hover > a{
+	background-color: #004c99;
+	color: #fff;
+}
+#menu_principal .menu ul li:hover > ul{
+	display: block;
+}
+#menu_principal .menu ul li.current_page_item > a,
+#menu_principal .menu ul li.current-menu-ancestor > a,
+#menu_principal .menu ul li.current-menu-item > a,
+#menu_principal .menu ul li.current-menu-parent > a {
+	font-size: 1em;
+	text-align: center;
+	color: #fff; /* cor do texto do menu */
+	font-weight: bold;
+}
+* html #menu_principal .menu ul li.current_page_item a,
+* html #menu_principal .menu ul li.current-menu-ancestor a,
+* html #menu_principal .menu ul li.current-menu-item a,
+* html #menu_principal .menu ul li.current-menu-parent a,
+* html #menu_principal .menu ul li a:hover {
+	background-color: #004c99;
+	color: #fff;
+}
+
+.fundo_branco{
+	background-color:#fff;
+}

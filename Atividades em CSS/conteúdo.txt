@@ -1,0 +1,5 @@
+Planejar o conteúdo primeiro e depois fazer a marcação, se preciso faça o desenho de layut e depois a colocação das tags
+-id: elemento único
+seletor #
+class; vário
+celetor "."

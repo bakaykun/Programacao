@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> </title>
+	<script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+
+
+	<script type="text/babel">
+		//São usados para os casos em que por algum motivo não é passado valores para a chamada da função, senod assim para ela não quebrar, é passado no momento da assinatura da fuções os valores que seram padrões para aplicão.
+
+		function contarUmaHistoria(cachorro = "Bilu", oque_fazia  = "bunda", nome_dono = "Gerço" ){
+			document.write(`Era uma vez um cachorro chamado ${cachorro}, ele adorava caçar ${oque_fazia}.
+				Seu dono era o ${nome_dono}. Que o amava muito.`)
+		}
+
+		contarUmaHistoria("Carlinho", undefined, "KElvin")
+		;//caso queria na hora de chamar a função forçar o uso do valor default, coloca undefined na chamada da função
+
+	</script>
+</head>
+<body>
+	
+
+</body>
+</html>

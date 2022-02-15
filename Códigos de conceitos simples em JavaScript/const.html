@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> </title>
+	<script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+
+
+	<script type="text/babel">
+		///Criando constatntes sempre caracteres maiúsculos e atribuir o valor nela na hora e o seu valor nunca muda
+		//As constantes são ultilizadas para armazenar valores que não serrão alterados ao longo da instância da aplicação, armazenando assim valores como:
+		/////////////////----> Senhas de banco de dados
+		/////////////////----> Links para api
+		/////////////////----> Parametros de configuraç~ao da aplicação
+		
+		const SERIE = "Escopo global"//essa aqui vai ficar só no escopo global
+
+		document.write(SERIE)
+
+		{
+			const SERIE = "escopo Dentro da função"//essa vai ficar só no escopo da função
+			console.log(SERIE)
+		}
+
+		
+	</script>
+</head>
+<body>
+	
+
+</body>
+</html>

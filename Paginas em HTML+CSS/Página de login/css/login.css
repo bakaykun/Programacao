@@ -1,0 +1,133 @@
+
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+*, :after, :before {
+  box-sizing: border-box;
+}
+
+div, h1, p, ul {
+  margin: 0;
+  padding: 0
+}
+
+li, ul {
+  list-style: none
+}
+
+.login {
+  padding: 120px 0 200px
+}
+
+.painel {
+  margin-bottom: 20px;
+  background-color: #fff;
+  border: 1px solid;
+  border-radius: 4px;
+  border-color: #337ab7
+}
+
+.panel-body{
+  padding: 20px
+}
+
+.panel-body:after, .panel-body:before {
+  content: " ";
+  display: table
+}
+
+.panel-body:after {
+  clear: both
+}
+
+.area_login {
+  border-color: #337ab7;
+  background-color: #337ab7;
+  color: #fff ;
+  padding: 10px
+}
+
+.conteiner {
+  margin: 0 auto;
+  padding: 0 15px;
+  width: 976px;
+}
+
+.login .conteiner{
+  display: table;
+  width: 610px;
+  text-align: center
+  
+}
+
+.login .conteiner section {
+  border-left: 1px solid #ccc;
+  float: right;
+  padding-left: 70px;
+  width: 300px;
+  margin-bottom: 12px:
+}
+
+.login .conteiner section form ul li button[type=submit]{
+  background-color: #337ab7;
+  border: none;
+  border: 1px solid #0000ff;
+  border-radius: 3px;
+  color: #fff;
+  display: inline-block;
+  font-family: futura-lt-bold;
+  font-size: 12px;
+  line-height: 32px;
+  margin-left: 26px;
+  text-align: center;
+  min-width: 151px
+}
+
+.login .conteiner section form ul li button[type=submit]:hover {
+  border: 1px solid #337ab7;
+  background-color: #0000ff;
+  color: #fff
+}
+
+.usr_senha{
+  padding-top: 10px;
+}
+
+.acessar {
+ padding-top: 40px;
+ padding-right: 30px
+}
+
+.login .conteiner section form input {
+  border: none;
+  border-bottom: 1px solid #337ab7;
+  color: #000;
+  display: block;
+  font-family: futura-lt-book;
+  font-size: 14px;
+  padding: 10px;
+  position: relative;
+  width: 100%
+}
+
+main aside {
+  float: left;
+  margin-right: 15px;
+  width: 217px
+}
+
+main aside .logo {
+  border: 1px solid #b3c7cb;
+  margin-bottom: 20px;
+  padding: 9px 0;
+  text-align: center
+}
+
+main aside h2 {
+  font-family: futura-lt-bold;
+  font-size: 18px;
+  margin-bottom: 35px
+}

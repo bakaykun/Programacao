@@ -1,0 +1,40 @@
+/**
+*
+* Formatação do SITE pag
+*kelvin
+*Fazer isso pra falar que o site é seu
+//
+
+/*Feito para fazer o reset d apáginaS*/
+*{
+	margin: 0;
+	padding: 0;
+}
+#topo{
+
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	border: 1px solid red;
+}
+.conteudo1{
+	
+	width: 500px;
+	
+	border: 2px solid red;
+	text-align: justify;
+	float: left;
+}
+.conteudo1{
+
+	width: 500px;
+	display: block;
+	border: 2px solid red;
+	text-align: justify;
+	
+}
+#rodape{
+	clear: both;
+	height: 100%;
+	border: 1px solid blue;
+}

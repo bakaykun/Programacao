@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BOM WINDOW</title>
+
+    <script>
+        /*  O WINDOW É OBJETO FORMADO PELO BROWSER QUE INCORPORA A ÁVORE DE ELEMENTOS HTML DA PÁGINA
+        ALÉM DA NEVEGAÇÃO ELE SE COMUNICA COM O BROWSER , DOM PÁGINA, BOM BROWSER , 
+        
+        NO W3 SCHOOLS TEM TUDO DE PROPRIEDADE  */
+        var janela
+        function abrirPopUp() {
+           janela =  window.open("http:\\facebook.com", "New_Tab", "full_screen")
+        }
+
+        function fecharPopUp() {
+            janela.close()
+        }
+
+    </script>
+</head>
+<body>
+    <button onclick="abrirPopUp()">Abrir janela</button>
+    <button onclick="fecharPopUp()"> Fechar janela janela</button>
+    <button onclick="window.print()"> Iprimir</button>
+
+
+</body>
+</html>

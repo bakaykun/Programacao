@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> </title>
+	<script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+
+
+	<script type="text/babel">
+		//é uma forma mais enxuta de escrita de funções simples ou de callback
+
+		let quadrado = x => x*x//quadrado do número
+
+		document.write(quadrado(3));
+
+//par ou impar
+		let paOuImpar = x =>  x % 2 === 0 ? "par":"impar";//retorno implícito quanod o retorno ta na linha da flecha
+		document.write(`<br/>${paOuImpar(3)}`);
+
+	</script>
+</head>
+<body>
+	
+
+</body>
+</html>

@@ -1,0 +1,124 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+/*Reset pagina for olders browsers*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/*Start of code*/
+
+/*Code header*/
+body {
+    background-image: url('../imagens/fundo.png');
+    
+
+}
+#imagemtop img{
+    width: 100%;
+}
+#imagemtop{
+    width: 50%;
+    margin: 0 auto;
+}
+#menu{
+    color: white;
+    background-color: blue;
+    margin: 0 auto;
+    width: 50%;
+    
+}
+#menu ul{
+    
+}
+#menu ul li{
+    display: inline-block;
+
+}
+#menu  a{
+    text-decoration:none;
+    color: aliceblue;
+    
+}
+
+/*Body code*/
+.conteudo{
+    width: 50%;
+    margin: 0 auto;
+    background-color: white;
+    
+}
+.conteudo h1{
+    color: maroon;
+    font-size: 20px;
+    padding-bottom: 8%;
+    text-transform: uppercase;
+    font-weight: 900;
+    padding: 3%;
+}
+.paragrafo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding-bottom: 5%;
+    padding-left: 3%;
+
+}
+.fotos{
+    width: 100%;
+    margin: 0 auto;
+    padding-bottom: 3%;
+}
+.fotos img{
+    border: 8px solid blue ;
+    border-style: double;
+    
+}
+/*Footer code*/
+.rodape{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 3%;
+    background-color: white;
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> </title>
+	<script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+
+
+	<script type="text/babel">
+		//lembrando que variável com var pode fazer hoisting, logo por exemplo: 
+		var kelvin = "Patrick dos santos ";
+
+		console.log(kelvin);//Criado aqui vai para todo lugar
+		function x(){
+			
+
+			{
+				var kelvin = " Maria do hs ";//Criado aqui vai para o escopo da função
+
+			}
+			console.log(kelvin);
+		}
+
+		x()
+
+		if (true ) {
+			let kelvin = "Pjanta" //Criado aqui com o var vai para o escoco global MASSS
+			console.log(kelvin);//CRIADO COM O LET FICA SÓ AQUI
+
+		}
+		console.log(kelvin);
+
+	</script>
+</head>
+<body>
+	
+
+</body>
+</html>

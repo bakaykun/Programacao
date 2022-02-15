@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> SOfa</title>
+	<script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+
+
+	<script type="text/babel">
+
+	class Sofa{
+		constructor (lugares, reclinavel, cor){
+			this.lugares = lugares
+			this.reclinavel = reclinavel
+			this.cor = cor
+		}
+
+		reclinavelOuNao(){
+			if (this.reclinavel === true){
+				let reclina = prompt("O quanto deseja reclinar?")
+				console.log(`O sofa foi reclinado ${reclina}`)
+			} else {
+				console.log("O sofa não é reclinável")
+			}
+		}
+	}
+
+	let sofa = new Sofa(4, true, "azul")
+	sofa.reclinavelOuNao()
+	</script>
+</head>
+<body>
+	
+
+</body>
+</html>

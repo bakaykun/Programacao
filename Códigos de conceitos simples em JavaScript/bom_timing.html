@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TIming</title>
+
+    <script>
+        /*setTimeout(function() { 
+            document.write("Testdsfsdfsdfse")
+            
+            }
+        ,2000)*/
+
+        //criando um tempo para expirar a sessão do usuário
+        /*var i = 5
+        var tempo = setInterval(function () {
+            i-- 
+
+            if (i === 0){
+                window.location.reload()
+            }
+            document.write( i + "<br>")
+            }
+
+            
+        ,1)*/
+
+        //para limpar o arquivo, atribuiu a função setInterval ou setTimeout para uma variave e usa o cl
+        var i = 50
+        var tempo = setInterval(function () {
+            i-- 
+
+            document.write( i + "<br>")
+            if (i === 0){
+                clearInterval(tempo)
+            }
+            
+            }
+        ,1)
+ 
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

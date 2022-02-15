@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> abstração</title>
+	<script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+
+
+	<script type="text/babel">
+	//incio da classe 
+	class ContaBancaria {//usar sempre a CameCase para o nome da classe desde a primeira e nomo de atribulo a partir da segunda
+
+		constructor(){
+		//construção dos atributos
+			this.agencia = 1075
+			this.conta = 5646587
+			this.saldo = 50
+			this.limite = 450
+		}
+
+		//INicio dos métodos
+		depositar(valorDeposito){
+			this.saldo += valorDeposito
+		}
+
+		sacar(valorSaque){6
+			this.saldo -= valorSaque
+		}
+
+		consultarSaldo(){
+			return this.saldo
+		}
+
+
+	}
+
+	let x = new ContaBancaria();
+	let y = new ContaBancaria();
+
+	x.depositar(40)
+	console.log(x.consultarSaldo())
+	x.sacar(85)
+	console.log(x.consultarSaldo());
+
+	</script>
+</head>
+<body>
+	
+
+</body>
+</html>

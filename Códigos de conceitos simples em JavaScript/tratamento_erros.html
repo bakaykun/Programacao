@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tratamento de erros</title>
+
+    <script>
+        //DIgamos que vc está na netifliz e quer ver um filme, e seleciona ele no catalogo
+        //Pe4nsando assim usa-se uma array para recuperar os vídeos do servidor
+
+        var video = Array()
+
+        video[1]=Array()
+
+        video[1]["Nome"] = "Uma noite de crime"
+        video[1]["Categoria"] = "Ação"
+
+        function getVideo(video){
+            //throw neu Error() fas com que a apalicação é pausada no meomento em que o objeto é criado, aidna asism o erro pode ser salvo
+            //Lógica para pegar o filme do servidor
+
+            try { //BLoco de códigos onde é possivel a partir dele fazemos a captura do problema, começãmos com essse para tentar fazer o código
+
+                console.log(video[0]["ANarqui"])//NEsse caso, não tem o filme na posição, então da um erro e aplicação quebra, para isso não acontecer se for o caso, usa os comandos a seguir apr recuperar o erro e tratá-lo
+
+
+                console.log("A aplicação não morreu!")
+            } catch(e) { // , essa é a váriavel que recebe o erro logo depois do TRy e recebe o erro pro parametro, faz o armazenamento desse erro
+                tratrErro(e)
+                console.log("agora sim podemos tratr o erro")
+            
+
+            } finally {//depois de tentar pegar, temos que finalizar essa alguma coisa de algum jeito
+
+                console.log("SEpre passa pro aqui, posso ser aplicado no (Try / catch)")
+            }
+            //poderia ter uma função apra registrar o erro caso for nescessário
+            function tratrErro(e){
+                console.log(e)
+                //o er4ro acima vem aqui
+            }
+
+        }
+
+        getVideo(video)
+
+
+
+        //
+
+
+
+
+
+        //
+
+
+
+
+
+
+        //
+
+
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

@@ -1,0 +1,151 @@
+.conteudo{
+	width: 100%;
+	height: 300px;
+	margin-top: 50px;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+.testo{
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	font-family: sans-serif;
+	text-align: justify;
+	
+}
+
+.titulo {
+	text-align: center;
+	text-decoration: none;
+}
+.conteudo2{
+	height: 300px;
+	width: 100%;
+	float: left;
+}
+.narguile{
+	width: 250px;
+	height: 250px;
+	margin: 10px 10px 10px 10px ;
+
+}
+.narguiles{
+	width: 250px;
+	height: 250px;
+	margin: 10px 10px 10px 10px ;
+}
+.narguiles1{
+	width: 250px;
+	height: 250px;
+	margin: 10px 10px 10px 10px ;
+}
+.narguile:hover{
+	width: 300px;
+	height: 300px;
+}
+.narguiles1:hover {
+	width: 300px;
+	height: 300px;
+}
+.narguiles:hover {
+	width: 300px;
+	height: 300px;
+}
+.formulario{
+	width: 300px;
+	height: 300px;
+}
+.conteudo2{
+	width: 100%;
+	height: 100px;
+}
+.jarro{
+	width: 250px;
+	height: 250px;
+	margin: 10px 10px 10px 10px ;
+}
+.jarro1{
+	width: 250px;
+	height: 250px;
+	margin: 10px 10px 10px 10px ;
+}
+.jarro2{
+	width: 250px;
+	height: 250px;
+	margin: 10px 10px 10px 10px ;
+}
+.jarro:hover {
+	width: 300px;
+	height: 300px;
+}
+.jarro1:hover {
+	width: 300px;
+	height: 300px;
+}
+.jarro2:hover {
+	width: 300px;
+	height: 300px;
+}
+.rosh{
+	width: 250px;
+	height: 250px;
+	margin: 10px 10px 10px 10px ;
+}
+.rosh1{
+	width: 250px;
+	height: 250px;
+	margin: 10px 10px 10px 10px ;
+}
+.rosh2{
+	width: 250px;
+	height: 250px;
+	margin: 10px 10px 10px 10px ;
+}
+.rosh:hover {
+	width: 300px;
+	height: 300px;
+
+}
+.rosh1:hover {
+	width: 300px;
+	height: 300px;
+}
+.rosh2:hover {
+	width: 300px;
+	height: 300px;
+}
+.mangueira{
+	width: 250px;
+	height: 250px;
+	margin: 10px 10px 10px 10px ;
+}
+.mangueira1{
+	width: 250px;
+	height: 250px;
+	margin: 10px 10px 10px 10px ;
+}
+.mangueira2{
+	width: 250px;
+	height: 250px;
+	margin: 10px 10px 10px 10px ;
+	margin-left: 50px;	
+}
+.mangueira:hover {
+	width: 300px;
+	height: 300px;
+}
+.mangueira1:hover {
+	width: 300px;
+	height: 300px;
+}
+.mangueira2:hover {
+	width: 300px;
+	height: 300px;
+}
+.socialnarga{
+	width: 800px;
+	height: 400px;
+	margin: 50px 50px 20px 50px;
+	margin-right: 80px;
+
+}

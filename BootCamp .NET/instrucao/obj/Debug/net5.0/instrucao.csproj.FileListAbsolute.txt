@@ -1,0 +1,16 @@
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\instrucao\bin\Debug\net5.0\instrucao.exe
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\instrucao\bin\Debug\net5.0\instrucao.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\instrucao\bin\Debug\net5.0\instrucao.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\instrucao\bin\Debug\net5.0\instrucao.runtimeconfig.dev.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\instrucao\bin\Debug\net5.0\instrucao.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\instrucao\bin\Debug\net5.0\ref\instrucao.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\instrucao\bin\Debug\net5.0\instrucao.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\instrucao\obj\Debug\net5.0\instrucao.csprojAssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\instrucao\obj\Debug\net5.0\instrucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\instrucao\obj\Debug\net5.0\instrucao.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\instrucao\obj\Debug\net5.0\instrucao.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\instrucao\obj\Debug\net5.0\instrucao.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\instrucao\obj\Debug\net5.0\instrucao.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\instrucao\obj\Debug\net5.0\ref\instrucao.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\instrucao\obj\Debug\net5.0\instrucao.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\instrucao\obj\Debug\net5.0\instrucao.genruntimeconfig.cache

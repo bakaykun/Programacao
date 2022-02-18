@@ -1,0 +1,16 @@
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\OrientacaoAobjetos\obj\Debug\net5.0\OrientacaoAobjetos.csprojAssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\OrientacaoAobjetos\obj\Debug\net5.0\OrientacaoAobjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\OrientacaoAobjetos\obj\Debug\net5.0\OrientacaoAobjetos.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\OrientacaoAobjetos\obj\Debug\net5.0\OrientacaoAobjetos.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\OrientacaoAobjetos\obj\Debug\net5.0\OrientacaoAobjetos.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\OrientacaoAobjetos\bin\Debug\net5.0\OrientacaoAobjetos.exe
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\OrientacaoAobjetos\bin\Debug\net5.0\OrientacaoAobjetos.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\OrientacaoAobjetos\bin\Debug\net5.0\OrientacaoAobjetos.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\OrientacaoAobjetos\bin\Debug\net5.0\OrientacaoAobjetos.runtimeconfig.dev.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\OrientacaoAobjetos\bin\Debug\net5.0\OrientacaoAobjetos.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\OrientacaoAobjetos\bin\Debug\net5.0\ref\OrientacaoAobjetos.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\OrientacaoAobjetos\bin\Debug\net5.0\OrientacaoAobjetos.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\OrientacaoAobjetos\obj\Debug\net5.0\OrientacaoAobjetos.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\OrientacaoAobjetos\obj\Debug\net5.0\ref\OrientacaoAobjetos.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\OrientacaoAobjetos\obj\Debug\net5.0\OrientacaoAobjetos.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\OrientacaoAobjetos\obj\Debug\net5.0\OrientacaoAobjetos.genruntimeconfig.cache

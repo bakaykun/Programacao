@@ -1,0 +1,16 @@
+SALVE SALVE 
+
+Seguinte, nesse aquivo limpeza.bat, tem um diretório C:\Users\Bakay\AppData\Local\Temp, 
+no qual tu deve alterar o nome "Bakay" e colocar o user do seu pc, caso não ache a pasta siga este passo a passo: 
+
+1 - Na área de trabalho, vá em menu iniciar e procure digite executar
+2 - Assim que aparecer o executar no seu menu iniciar, clique nele e vai aparecer uma caixa de diálogo no 
+canto inferior esquerdo da sua tela, e nela digite "PREFETCH"
+3 - Feito isso, de tecle ENTER
+4 - Vai entrar em uma pasta, clique em aceitar caso peça alguma permissão 
+5 - Agora, só clicar na parte de cima da barra de pesquisa na pasta, aonde aparece o diretório, copia e cola 
+na linha do C:\Users\Bakay\AppData\Local\Temp
+6 - Pornto ! Só salvar e lembrar de sempre executar como admistrador e apertar 3 vezes o "s" de sim, caso seu pc 
+esteja full BR ou "y" de yes caso esteja em English. 
+
+TMJ, valeu !

@@ -1,0 +1,16 @@
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\CadastroDeAluno\obj\Debug\net5.0\CadastroDeAluno.csprojAssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\CadastroDeAluno\obj\Debug\net5.0\CadastroDeAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\CadastroDeAluno\obj\Debug\net5.0\CadastroDeAluno.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\CadastroDeAluno\obj\Debug\net5.0\CadastroDeAluno.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\CadastroDeAluno\obj\Debug\net5.0\CadastroDeAluno.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\CadastroDeAluno\bin\Debug\net5.0\CadastroDeAluno.exe
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\CadastroDeAluno\bin\Debug\net5.0\CadastroDeAluno.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\CadastroDeAluno\bin\Debug\net5.0\CadastroDeAluno.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\CadastroDeAluno\bin\Debug\net5.0\CadastroDeAluno.runtimeconfig.dev.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\CadastroDeAluno\bin\Debug\net5.0\CadastroDeAluno.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\CadastroDeAluno\bin\Debug\net5.0\ref\CadastroDeAluno.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\CadastroDeAluno\bin\Debug\net5.0\CadastroDeAluno.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\CadastroDeAluno\obj\Debug\net5.0\CadastroDeAluno.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\CadastroDeAluno\obj\Debug\net5.0\ref\CadastroDeAluno.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\CadastroDeAluno\obj\Debug\net5.0\CadastroDeAluno.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\CadastroDeAluno\obj\Debug\net5.0\CadastroDeAluno.genruntimeconfig.cache

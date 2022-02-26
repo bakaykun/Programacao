@@ -1,0 +1,16 @@
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\PesquisarNome\obj\Debug\net5.0\PesquisarNome.csprojAssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\PesquisarNome\obj\Debug\net5.0\PesquisarNome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\PesquisarNome\obj\Debug\net5.0\PesquisarNome.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\PesquisarNome\obj\Debug\net5.0\PesquisarNome.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\PesquisarNome\obj\Debug\net5.0\PesquisarNome.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\PesquisarNome\bin\Debug\net5.0\PesquisarNome.exe
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\PesquisarNome\bin\Debug\net5.0\PesquisarNome.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\PesquisarNome\bin\Debug\net5.0\PesquisarNome.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\PesquisarNome\bin\Debug\net5.0\PesquisarNome.runtimeconfig.dev.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\PesquisarNome\bin\Debug\net5.0\PesquisarNome.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\PesquisarNome\bin\Debug\net5.0\ref\PesquisarNome.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\PesquisarNome\bin\Debug\net5.0\PesquisarNome.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\PesquisarNome\obj\Debug\net5.0\PesquisarNome.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\PesquisarNome\obj\Debug\net5.0\ref\PesquisarNome.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\PesquisarNome\obj\Debug\net5.0\PesquisarNome.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\PesquisarNome\obj\Debug\net5.0\PesquisarNome.genruntimeconfig.cache

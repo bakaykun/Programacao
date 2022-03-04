@@ -1,0 +1,16 @@
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\UsandoReferencia\bin\Debug\net5.0\UsandoReferencia.exe
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\UsandoReferencia\bin\Debug\net5.0\UsandoReferencia.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\UsandoReferencia\bin\Debug\net5.0\UsandoReferencia.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\UsandoReferencia\bin\Debug\net5.0\UsandoReferencia.runtimeconfig.dev.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\UsandoReferencia\bin\Debug\net5.0\UsandoReferencia.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\UsandoReferencia\bin\Debug\net5.0\ref\UsandoReferencia.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\UsandoReferencia\bin\Debug\net5.0\UsandoReferencia.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\UsandoReferencia\obj\Debug\net5.0\UsandoReferencia.csprojAssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\UsandoReferencia\obj\Debug\net5.0\UsandoReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\UsandoReferencia\obj\Debug\net5.0\UsandoReferencia.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\UsandoReferencia\obj\Debug\net5.0\UsandoReferencia.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\UsandoReferencia\obj\Debug\net5.0\UsandoReferencia.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\UsandoReferencia\obj\Debug\net5.0\UsandoReferencia.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\UsandoReferencia\obj\Debug\net5.0\ref\UsandoReferencia.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\UsandoReferencia\obj\Debug\net5.0\UsandoReferencia.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\UsandoReferencia\obj\Debug\net5.0\UsandoReferencia.genruntimeconfig.cache

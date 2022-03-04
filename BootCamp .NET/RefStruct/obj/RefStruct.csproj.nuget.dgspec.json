@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bakay\\Documents\\Programação\\Programacao\\BootCamp .NET\\PrimeiraParte\\CursoDotNet.csproj": {}
+    "C:\\Users\\Bakay\\Documents\\Programação\\Programacao\\BootCamp .NET\\RefStruct\\RefStruct.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bakay\\Documents\\Programação\\Programacao\\BootCamp .NET\\PrimeiraParte\\CursoDotNet.csproj": {
+    "C:\\Users\\Bakay\\Documents\\Programação\\Programacao\\BootCamp .NET\\RefStruct\\RefStruct.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bakay\\Documents\\Programação\\Programacao\\BootCamp .NET\\PrimeiraParte\\CursoDotNet.csproj",
-        "projectName": "CursoDotNet",
-        "projectPath": "C:\\Users\\Bakay\\Documents\\Programação\\Programacao\\BootCamp .NET\\PrimeiraParte\\CursoDotNet.csproj",
+        "projectUniqueName": "C:\\Users\\Bakay\\Documents\\Programação\\Programacao\\BootCamp .NET\\RefStruct\\RefStruct.csproj",
+        "projectName": "RefStruct",
+        "projectPath": "C:\\Users\\Bakay\\Documents\\Programação\\Programacao\\BootCamp .NET\\RefStruct\\RefStruct.csproj",
         "packagesPath": "C:\\Users\\Bakay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bakay\\Documents\\Programação\\Programacao\\BootCamp .NET\\PrimeiraParte\\obj\\",
+        "outputPath": "C:\\Users\\Bakay\\Documents\\Programação\\Programacao\\BootCamp .NET\\RefStruct\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

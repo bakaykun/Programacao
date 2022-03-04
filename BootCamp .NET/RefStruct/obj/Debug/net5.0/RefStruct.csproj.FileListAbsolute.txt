@@ -1,0 +1,32 @@
+C:\Users\Bakay\Documents\Programação\Programacao\RefStruct\obj\Debug\net5.0\RefStruct.csprojAssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\RefStruct\obj\Debug\net5.0\RefStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\RefStruct\obj\Debug\net5.0\RefStruct.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\RefStruct\obj\Debug\net5.0\RefStruct.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\RefStruct\obj\Debug\net5.0\RefStruct.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\RefStruct\bin\Debug\net5.0\RefStruct.exe
+C:\Users\Bakay\Documents\Programação\Programacao\RefStruct\bin\Debug\net5.0\RefStruct.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\RefStruct\bin\Debug\net5.0\RefStruct.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\RefStruct\bin\Debug\net5.0\RefStruct.runtimeconfig.dev.json
+C:\Users\Bakay\Documents\Programação\Programacao\RefStruct\bin\Debug\net5.0\RefStruct.dll
+C:\Users\Bakay\Documents\Programação\Programacao\RefStruct\bin\Debug\net5.0\ref\RefStruct.dll
+C:\Users\Bakay\Documents\Programação\Programacao\RefStruct\bin\Debug\net5.0\RefStruct.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\RefStruct\obj\Debug\net5.0\RefStruct.dll
+C:\Users\Bakay\Documents\Programação\Programacao\RefStruct\obj\Debug\net5.0\ref\RefStruct.dll
+C:\Users\Bakay\Documents\Programação\Programacao\RefStruct\obj\Debug\net5.0\RefStruct.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\RefStruct\obj\Debug\net5.0\RefStruct.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\RefStruct\obj\Debug\net5.0\RefStruct.csprojAssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\RefStruct\obj\Debug\net5.0\RefStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\RefStruct\obj\Debug\net5.0\RefStruct.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\RefStruct\obj\Debug\net5.0\RefStruct.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\RefStruct\obj\Debug\net5.0\RefStruct.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\RefStruct\obj\Debug\net5.0\RefStruct.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\RefStruct\obj\Debug\net5.0\ref\RefStruct.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\RefStruct\obj\Debug\net5.0\RefStruct.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\RefStruct\bin\Debug\net5.0\RefStruct.exe
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\RefStruct\bin\Debug\net5.0\RefStruct.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\RefStruct\bin\Debug\net5.0\RefStruct.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\RefStruct\bin\Debug\net5.0\RefStruct.runtimeconfig.dev.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\RefStruct\bin\Debug\net5.0\RefStruct.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\RefStruct\bin\Debug\net5.0\ref\RefStruct.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\RefStruct\bin\Debug\net5.0\RefStruct.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\RefStruct\obj\Debug\net5.0\RefStruct.genruntimeconfig.cache

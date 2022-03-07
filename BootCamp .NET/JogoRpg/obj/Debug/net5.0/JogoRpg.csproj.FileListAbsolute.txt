@@ -1,0 +1,16 @@
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\JogoRpg\obj\Debug\net5.0\JogoRpg.csprojAssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\JogoRpg\obj\Debug\net5.0\JogoRpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\JogoRpg\obj\Debug\net5.0\JogoRpg.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\JogoRpg\obj\Debug\net5.0\JogoRpg.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\JogoRpg\obj\Debug\net5.0\JogoRpg.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\JogoRpg\bin\Debug\net5.0\JogoRpg.exe
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\JogoRpg\bin\Debug\net5.0\JogoRpg.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\JogoRpg\bin\Debug\net5.0\JogoRpg.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\JogoRpg\bin\Debug\net5.0\JogoRpg.runtimeconfig.dev.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\JogoRpg\bin\Debug\net5.0\JogoRpg.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\JogoRpg\bin\Debug\net5.0\ref\JogoRpg.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\JogoRpg\bin\Debug\net5.0\JogoRpg.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\JogoRpg\obj\Debug\net5.0\JogoRpg.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\JogoRpg\obj\Debug\net5.0\ref\JogoRpg.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\JogoRpg\obj\Debug\net5.0\JogoRpg.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\JogoRpg\obj\Debug\net5.0\JogoRpg.genruntimeconfig.cache

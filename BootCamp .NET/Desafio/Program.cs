@@ -26,7 +26,6 @@ namespace Desafio{
                 if ( x == 0) 
                     break;
                 System.Console.WriteLine(soma);
-
                 i = 1;
                 soma = 0;
 

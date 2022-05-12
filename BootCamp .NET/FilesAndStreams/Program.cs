@@ -1,19 +1,16 @@
-﻿using System.IO;
+﻿using System.String;
+using System.IO;
+using static System.Console;
 
-var path = Path.Combine(Environment.CurrentDirectory, "Teste.txt");
+WriteLine("Digite o nome do Arquivo");
+var nome = ReadLine();
+var path = Path.Combine(Environment.CurrentDirectory, $"{nome}.txt");
 
-using var sw = File.CreateText(path);
-
-//sem o usuing;
-//isso ainda tá em memória
-/*sw.WriteLine("Este é o primeiro arquivo que eu to fazendo dentro de um arquivo");
-sw.WriteLine("Este é o primeiro arquivo que eu to fazendo dentro de um arquivo");
-sw.WriteLine("Este é o primeiro arquivo que eu to fazendo dentro de um arquivo");
-
-//com o flush vai para o arquivo que queremos
-sw.Flush();*/
-
-//com o using, fechando a aplicação de forma forçada e gravando o Flush automático;
-sw.WriteLine("Este é o teste para o programa");
-
+cirarArquivo(path);
+static void cirarArquivo(string path){
+    using var sw = File.CreateText(path);
+    for(int i = 0; i< 5; i++){
+        sw.WriteLine("Linha " + i);
+    }
+}
 

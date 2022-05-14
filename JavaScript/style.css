@@ -1,52 +1,50 @@
-.conteudo{
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
-	align-items: baseline;
+.conteudo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: baseline;
 }
 
 ul {
-	margin-left: 20px;
+    margin-left: 20px;
 }
 
-li{
-	font-size:  20px;
-	font-family: cursive;
+li {
+    font-size: 20px;
+    font-family: cursive;
 }
 
-h1{
-	font-family: cursive;
+h1 {
+    font-family: cursive;
 }
 
-a{
-	text-decoration: none;
+a {
+    text-decoration: none;
 }
 
-button{
-	width: 150px;
-	height: 50px;
-	color: white;
-	font-family: cursive;
-	background-color: red;
-	border: none;
-	border-radius: 40px;
-	outline: 0;
-
+button {
+    width: 150px;
+    height: 50px;
+    color: white;
+    font-family: cursive;
+    background-color: red;
+    border: none;
+    border-radius: 40px;
+    outline: 0;
 }
 
-button:hover{
-	width: 155px;
-	height: 55px;
-	font-size: 16px;
+button:hover {
+    width: 155px;
+    height: 55px;
+    font-size: 16px;
 }
 
 input {
-	width: 140px;
-	height: 50px;
-	text-align: center;
-	border-radius: 20px;
-	text-decoration: none;
-	border: 1px solid gray;
-	outline: 0;
+    width: 140px;
+    height: 50px;
+    text-align: center;
+    border-radius: 20px;
+    text-decoration: none;
+    border: 1px solid gray;
+    outline: 0;
 }
-

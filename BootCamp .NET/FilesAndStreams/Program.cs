@@ -1,5 +1,4 @@
-﻿using System.String;
-using System.IO;
+﻿using System.IO;
 using static System.Console;
 
 WriteLine("Digite o nome do Arquivo");

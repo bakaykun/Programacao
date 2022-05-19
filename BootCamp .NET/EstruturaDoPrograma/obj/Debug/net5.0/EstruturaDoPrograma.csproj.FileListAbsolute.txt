@@ -3,9 +3,7 @@ C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\EstruturaDoProg
 C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.json
 C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.dev.json
 C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.dll
-C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\EstruturaDoPrograma\bin\Debug\net5.0\ref\EstruturaDoPrograma.dll
 C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.pdb
-C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csprojAssemblyReference.cache
 C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
 C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfo.cs
@@ -14,3 +12,5 @@ C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\EstruturaDoProg
 C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\EstruturaDoPrograma\obj\Debug\net5.0\ref\EstruturaDoPrograma.dll
 C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.pdb
 C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\EstruturaDoPrograma\obj\Debug\net5.0\refint\EstruturaDoPrograma.dll

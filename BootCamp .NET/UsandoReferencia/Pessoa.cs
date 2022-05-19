@@ -4,3 +4,7 @@ namespace UsandoReferencia{
         public int idade { get; set; }
     }
 }
+
+controle de estoque ( preços, entrada e saida de mercadoria )
+integração site/pdv ( venda pessoa fisica)
+

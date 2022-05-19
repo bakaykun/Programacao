@@ -2,8 +2,7 @@
   "runtimeOptions": {
     "additionalProbingPaths": [
       "C:\\Users\\Bakay\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Bakay\\.nuget\\packages",
-      "C:\\Microsoft\\Xamarin\\NuGet"
+      "C:\\Users\\Bakay\\.nuget\\packages"
     ]
   }
 }

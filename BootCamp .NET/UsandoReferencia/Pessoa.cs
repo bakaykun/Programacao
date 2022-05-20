@@ -5,6 +5,5 @@ namespace UsandoReferencia{
     }
 }
 
-controle de estoque ( preços, entrada e saida de mercadoria )
-integração site/pdv ( venda pessoa fisica)
+
 

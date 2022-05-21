@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Diretorio\bin\Debug\net6.0\Diretorio.exe
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Diretorio\bin\Debug\net6.0\Diretorio.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Diretorio\bin\Debug\net6.0\Diretorio.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Diretorio\bin\Debug\net6.0\Diretorio.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Diretorio\bin\Debug\net6.0\Diretorio.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Diretorio\obj\Debug\net6.0\Diretorio.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Diretorio\obj\Debug\net6.0\Diretorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Diretorio\obj\Debug\net6.0\Diretorio.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Diretorio\obj\Debug\net6.0\Diretorio.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Diretorio\obj\Debug\net6.0\Diretorio.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Diretorio\obj\Debug\net6.0\Diretorio.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Diretorio\obj\Debug\net6.0\refint\Diretorio.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Diretorio\obj\Debug\net6.0\Diretorio.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Diretorio\obj\Debug\net6.0\Diretorio.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Diretorio\obj\Debug\net6.0\ref\Diretorio.dll

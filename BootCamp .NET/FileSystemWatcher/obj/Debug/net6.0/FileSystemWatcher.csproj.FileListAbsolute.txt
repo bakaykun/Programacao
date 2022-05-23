@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.exe
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\FileSystemWatcher\obj\Debug\net6.0\refint\FileSystemWatcher.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\FileSystemWatcher\obj\Debug\net6.0\ref\FileSystemWatcher.dll

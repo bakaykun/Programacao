@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\StringReader\obj\Debug\net6.0\StringReader.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\StringReader\obj\Debug\net6.0\StringReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\StringReader\obj\Debug\net6.0\StringReader.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\StringReader\obj\Debug\net6.0\StringReader.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\StringReader\obj\Debug\net6.0\StringReader.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\StringReader\bin\Debug\net6.0\StringReader.exe
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\StringReader\bin\Debug\net6.0\StringReader.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\StringReader\bin\Debug\net6.0\StringReader.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\StringReader\bin\Debug\net6.0\StringReader.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\StringReader\bin\Debug\net6.0\StringReader.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\StringReader\obj\Debug\net6.0\StringReader.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\StringReader\obj\Debug\net6.0\refint\StringReader.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\StringReader\obj\Debug\net6.0\StringReader.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\StringReader\obj\Debug\net6.0\StringReader.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\StringReader\obj\Debug\net6.0\ref\StringReader.dll

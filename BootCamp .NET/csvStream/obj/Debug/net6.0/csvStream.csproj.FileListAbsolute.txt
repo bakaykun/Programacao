@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStream\obj\Debug\net6.0\csvStream.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStream\obj\Debug\net6.0\csvStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStream\obj\Debug\net6.0\csvStream.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStream\obj\Debug\net6.0\csvStream.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStream\obj\Debug\net6.0\csvStream.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStream\bin\Debug\net6.0\csvStream.exe
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStream\bin\Debug\net6.0\csvStream.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStream\bin\Debug\net6.0\csvStream.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStream\bin\Debug\net6.0\csvStream.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStream\bin\Debug\net6.0\csvStream.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStream\obj\Debug\net6.0\csvStream.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStream\obj\Debug\net6.0\refint\csvStream.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStream\obj\Debug\net6.0\csvStream.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStream\obj\Debug\net6.0\csvStream.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStream\obj\Debug\net6.0\ref\csvStream.dll

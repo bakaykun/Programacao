@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStreamReader\bin\Debug\net6.0\csvStreamReader.exe
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStreamReader\bin\Debug\net6.0\csvStreamReader.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStreamReader\bin\Debug\net6.0\csvStreamReader.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStreamReader\bin\Debug\net6.0\csvStreamReader.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStreamReader\bin\Debug\net6.0\csvStreamReader.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStreamReader\obj\Debug\net6.0\csvStreamReader.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStreamReader\obj\Debug\net6.0\csvStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStreamReader\obj\Debug\net6.0\csvStreamReader.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStreamReader\obj\Debug\net6.0\csvStreamReader.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStreamReader\obj\Debug\net6.0\csvStreamReader.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStreamReader\obj\Debug\net6.0\csvStreamReader.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStreamReader\obj\Debug\net6.0\refint\csvStreamReader.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStreamReader\obj\Debug\net6.0\csvStreamReader.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStreamReader\obj\Debug\net6.0\csvStreamReader.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\csvStreamReader\obj\Debug\net6.0\ref\csvStreamReader.dll

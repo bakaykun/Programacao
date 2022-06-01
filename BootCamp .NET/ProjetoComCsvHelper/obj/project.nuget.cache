@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vbw17H5jP7fu9yetx7RQwkd59Df2sP7OpnsL+FacJxQU5Yi8FKnTsY7sWQtHa0eglQBowdwsxsY0qYa1kTEt9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bakay\\Documents\\Programação\\Programacao\\BootCamp .NET\\ProjetoComCsvHelper\\ProjetoComCsvHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bakay\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

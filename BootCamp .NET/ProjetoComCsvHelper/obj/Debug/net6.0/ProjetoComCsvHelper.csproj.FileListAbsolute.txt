@@ -1,0 +1,17 @@
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\ProjetoComCsvHelper\bin\Debug\net6.0\ProjetoComCsvHelper.exe
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\ProjetoComCsvHelper\bin\Debug\net6.0\ProjetoComCsvHelper.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\ProjetoComCsvHelper\bin\Debug\net6.0\ProjetoComCsvHelper.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\ProjetoComCsvHelper\bin\Debug\net6.0\ProjetoComCsvHelper.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\ProjetoComCsvHelper\bin\Debug\net6.0\ProjetoComCsvHelper.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\ProjetoComCsvHelper\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\ProjetoComCsvHelper\obj\Debug\net6.0\ProjetoComCsvHelper.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\ProjetoComCsvHelper\obj\Debug\net6.0\ProjetoComCsvHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\ProjetoComCsvHelper\obj\Debug\net6.0\ProjetoComCsvHelper.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\ProjetoComCsvHelper\obj\Debug\net6.0\ProjetoComCsvHelper.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\ProjetoComCsvHelper\obj\Debug\net6.0\ProjetoComCsvHelper.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\ProjetoComCsvHelper\obj\Debug\net6.0\ProjetoComCsvHelper.csproj.CopyComplete
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\ProjetoComCsvHelper\obj\Debug\net6.0\ProjetoComCsvHelper.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\ProjetoComCsvHelper\obj\Debug\net6.0\refint\ProjetoComCsvHelper.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\ProjetoComCsvHelper\obj\Debug\net6.0\ProjetoComCsvHelper.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\ProjetoComCsvHelper\obj\Debug\net6.0\ProjetoComCsvHelper.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\ProjetoComCsvHelper\obj\Debug\net6.0\ref\ProjetoComCsvHelper.dll

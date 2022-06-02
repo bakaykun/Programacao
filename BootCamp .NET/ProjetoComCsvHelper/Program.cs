@@ -3,8 +3,43 @@ using ProjetoComCsvHelper.Model;
 using CsvHelper.Configuration;
 using CsvHelper;
 
-UsandoCsvComClasse();
 
+LerCsvComOutroDelimitador();
+//UsandoCsvComClasse();
+
+static void LerCsvComOutroDelimitador(){
+    var path = Path.Combine(
+        Environment.CurrentDirectory,
+        "entrada",
+        "Lista Produtos.csv");
+
+    var fi = new FileInfo(path);
+
+    if (!fi.Exists) 
+        throw new FileNotFoundException($"o arquivo [- {path} ] não existe");   
+
+    using var sr = new StreamReader(fi.FullName);
+    var csvConfig = new CsvConfiguration(CultureInfo.InvariantCulture){
+        Delimiter = ";"
+    };
+    
+    using var csvReader = new CsvReader(sr, csvConfig);
+
+    var registros = csvReader.GetRecords<Produto>();
+
+    foreach (var registro in registros){
+        
+        Console.WriteLine($"Produto: {registro.Nome}");
+        Console.WriteLine($"Link: {registro.Link}");
+        Console.WriteLine($"Quantidade: {registro.Quantidade}");
+        Console.WriteLine($"Valor Unitário: {registro.ValorUnitario}");
+        Console.WriteLine($"Valor Total: {registro.ValorTotal}");
+        Console.WriteLine("-----------------------");
+
+    }  
+
+
+}
 
 static void UsandoCsvComClasse(){
     var path = Path.Combine(

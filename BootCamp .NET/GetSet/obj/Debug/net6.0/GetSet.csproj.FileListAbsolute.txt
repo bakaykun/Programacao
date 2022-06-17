@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\GetSet\obj\Debug\net6.0\GetSet.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\GetSet\obj\Debug\net6.0\GetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\GetSet\obj\Debug\net6.0\GetSet.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\GetSet\obj\Debug\net6.0\GetSet.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\GetSet\obj\Debug\net6.0\GetSet.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\GetSet\bin\Debug\net6.0\GetSet.exe
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\GetSet\bin\Debug\net6.0\GetSet.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\GetSet\bin\Debug\net6.0\GetSet.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\GetSet\bin\Debug\net6.0\GetSet.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\GetSet\bin\Debug\net6.0\GetSet.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\GetSet\obj\Debug\net6.0\GetSet.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\GetSet\obj\Debug\net6.0\refint\GetSet.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\GetSet\obj\Debug\net6.0\GetSet.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\GetSet\obj\Debug\net6.0\GetSet.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\GetSet\obj\Debug\net6.0\ref\GetSet.dll

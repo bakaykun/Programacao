@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\MiniDesafio\DesafioData\obj\Debug\net6.0\DesafioData.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\MiniDesafio\DesafioData\obj\Debug\net6.0\DesafioData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\MiniDesafio\DesafioData\obj\Debug\net6.0\DesafioData.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\MiniDesafio\DesafioData\obj\Debug\net6.0\DesafioData.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\MiniDesafio\DesafioData\obj\Debug\net6.0\DesafioData.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\MiniDesafio\DesafioData\bin\Debug\net6.0\DesafioData.exe
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\MiniDesafio\DesafioData\bin\Debug\net6.0\DesafioData.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\MiniDesafio\DesafioData\bin\Debug\net6.0\DesafioData.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\MiniDesafio\DesafioData\bin\Debug\net6.0\DesafioData.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\MiniDesafio\DesafioData\bin\Debug\net6.0\DesafioData.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\MiniDesafio\DesafioData\obj\Debug\net6.0\DesafioData.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\MiniDesafio\DesafioData\obj\Debug\net6.0\refint\DesafioData.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\MiniDesafio\DesafioData\obj\Debug\net6.0\DesafioData.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\MiniDesafio\DesafioData\obj\Debug\net6.0\DesafioData.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\MiniDesafio\DesafioData\obj\Debug\net6.0\ref\DesafioData.dll

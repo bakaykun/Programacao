@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Abstracao\ExemploAbstracao\bin\Debug\net6.0\ExemploAbstracao.exe
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Abstracao\ExemploAbstracao\bin\Debug\net6.0\ExemploAbstracao.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Abstracao\ExemploAbstracao\bin\Debug\net6.0\ExemploAbstracao.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Abstracao\ExemploAbstracao\bin\Debug\net6.0\ExemploAbstracao.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Abstracao\ExemploAbstracao\bin\Debug\net6.0\ExemploAbstracao.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Abstracao\ExemploAbstracao\obj\Debug\net6.0\ExemploAbstracao.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Abstracao\ExemploAbstracao\obj\Debug\net6.0\ExemploAbstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Abstracao\ExemploAbstracao\obj\Debug\net6.0\ExemploAbstracao.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Abstracao\ExemploAbstracao\obj\Debug\net6.0\ExemploAbstracao.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Abstracao\ExemploAbstracao\obj\Debug\net6.0\ExemploAbstracao.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Abstracao\ExemploAbstracao\obj\Debug\net6.0\ExemploAbstracao.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Abstracao\ExemploAbstracao\obj\Debug\net6.0\refint\ExemploAbstracao.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Abstracao\ExemploAbstracao\obj\Debug\net6.0\ExemploAbstracao.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Abstracao\ExemploAbstracao\obj\Debug\net6.0\ExemploAbstracao.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Abstracao\ExemploAbstracao\obj\Debug\net6.0\ref\ExemploAbstracao.dll

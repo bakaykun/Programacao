@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Encapsulamento\ExemploEncapsulamento\bin\Debug\net6.0\ExemploEncapsulamento.exe
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Encapsulamento\ExemploEncapsulamento\bin\Debug\net6.0\ExemploEncapsulamento.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Encapsulamento\ExemploEncapsulamento\bin\Debug\net6.0\ExemploEncapsulamento.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Encapsulamento\ExemploEncapsulamento\bin\Debug\net6.0\ExemploEncapsulamento.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Encapsulamento\ExemploEncapsulamento\bin\Debug\net6.0\ExemploEncapsulamento.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Encapsulamento\ExemploEncapsulamento\obj\Debug\net6.0\ExemploEncapsulamento.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Encapsulamento\ExemploEncapsulamento\obj\Debug\net6.0\ExemploEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Encapsulamento\ExemploEncapsulamento\obj\Debug\net6.0\ExemploEncapsulamento.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Encapsulamento\ExemploEncapsulamento\obj\Debug\net6.0\ExemploEncapsulamento.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Encapsulamento\ExemploEncapsulamento\obj\Debug\net6.0\ExemploEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Encapsulamento\ExemploEncapsulamento\obj\Debug\net6.0\ExemploEncapsulamento.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Encapsulamento\ExemploEncapsulamento\obj\Debug\net6.0\refint\ExemploEncapsulamento.dll
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Encapsulamento\ExemploEncapsulamento\obj\Debug\net6.0\ExemploEncapsulamento.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Encapsulamento\ExemploEncapsulamento\obj\Debug\net6.0\ExemploEncapsulamento.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\BootCamp .NET\Encapsulamento\ExemploEncapsulamento\obj\Debug\net6.0\ref\ExemploEncapsulamento.dll

@@ -1,0 +1,18 @@
+{
+    "url": "https://netciainternet.digisac.app/",
+    "text": "message",
+    "number": "number",
+    "agent": "seu@email",
+    "channel_key": "CANAL AQUI",
+    "api_key": "TOKEN AQUI",
+    "contactId": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "serviceId": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+}
+
+{
+    "text": "message",
+    "number": "number",
+    "api_key": "26e389db626819b2bc3dde340ddee88ce55da5ad",
+    "contactId": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "serviceId": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+}

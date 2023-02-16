@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SegundaAula\obj\Debug\net6.0\SegundaAula.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SegundaAula\obj\Debug\net6.0\SegundaAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SegundaAula\obj\Debug\net6.0\SegundaAula.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SegundaAula\obj\Debug\net6.0\SegundaAula.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SegundaAula\obj\Debug\net6.0\SegundaAula.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SegundaAula\bin\Debug\net6.0\SegundaAula.exe
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SegundaAula\bin\Debug\net6.0\SegundaAula.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SegundaAula\bin\Debug\net6.0\SegundaAula.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SegundaAula\bin\Debug\net6.0\SegundaAula.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SegundaAula\bin\Debug\net6.0\SegundaAula.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SegundaAula\obj\Debug\net6.0\SegundaAula.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SegundaAula\obj\Debug\net6.0\refint\SegundaAula.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SegundaAula\obj\Debug\net6.0\SegundaAula.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SegundaAula\obj\Debug\net6.0\SegundaAula.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SegundaAula\obj\Debug\net6.0\ref\SegundaAula.dll

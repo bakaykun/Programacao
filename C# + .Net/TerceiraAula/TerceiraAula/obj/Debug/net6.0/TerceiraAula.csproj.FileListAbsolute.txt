@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\TerceiraAula\TerceiraAula\obj\Debug\net6.0\TerceiraAula.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\TerceiraAula\TerceiraAula\obj\Debug\net6.0\TerceiraAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\TerceiraAula\TerceiraAula\obj\Debug\net6.0\TerceiraAula.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\TerceiraAula\TerceiraAula\obj\Debug\net6.0\TerceiraAula.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\TerceiraAula\TerceiraAula\obj\Debug\net6.0\TerceiraAula.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\TerceiraAula\TerceiraAula\bin\Debug\net6.0\TerceiraAula.exe
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\TerceiraAula\TerceiraAula\bin\Debug\net6.0\TerceiraAula.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\TerceiraAula\TerceiraAula\bin\Debug\net6.0\TerceiraAula.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\TerceiraAula\TerceiraAula\bin\Debug\net6.0\TerceiraAula.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\TerceiraAula\TerceiraAula\bin\Debug\net6.0\TerceiraAula.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\TerceiraAula\TerceiraAula\obj\Debug\net6.0\TerceiraAula.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\TerceiraAula\TerceiraAula\obj\Debug\net6.0\refint\TerceiraAula.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\TerceiraAula\TerceiraAula\obj\Debug\net6.0\TerceiraAula.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\TerceiraAula\TerceiraAula\obj\Debug\net6.0\TerceiraAula.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\TerceiraAula\TerceiraAula\obj\Debug\net6.0\ref\TerceiraAula.dll

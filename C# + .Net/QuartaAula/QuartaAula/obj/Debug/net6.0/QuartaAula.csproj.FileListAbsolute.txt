@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\QuartaAula\QuartaAula\bin\Debug\net6.0\QuartaAula.exe
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\QuartaAula\QuartaAula\bin\Debug\net6.0\QuartaAula.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\QuartaAula\QuartaAula\bin\Debug\net6.0\QuartaAula.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\QuartaAula\QuartaAula\bin\Debug\net6.0\QuartaAula.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\QuartaAula\QuartaAula\bin\Debug\net6.0\QuartaAula.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\QuartaAula\QuartaAula\obj\Debug\net6.0\QuartaAula.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\QuartaAula\QuartaAula\obj\Debug\net6.0\QuartaAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\QuartaAula\QuartaAula\obj\Debug\net6.0\QuartaAula.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\QuartaAula\QuartaAula\obj\Debug\net6.0\QuartaAula.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\QuartaAula\QuartaAula\obj\Debug\net6.0\QuartaAula.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\QuartaAula\QuartaAula\obj\Debug\net6.0\QuartaAula.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\QuartaAula\QuartaAula\obj\Debug\net6.0\refint\QuartaAula.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\QuartaAula\QuartaAula\obj\Debug\net6.0\QuartaAula.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\QuartaAula\QuartaAula\obj\Debug\net6.0\QuartaAula.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\QuartaAula\QuartaAula\obj\Debug\net6.0\ref\QuartaAula.dll

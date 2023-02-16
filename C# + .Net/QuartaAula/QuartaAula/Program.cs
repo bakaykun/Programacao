@@ -1,0 +1,31 @@
+﻿using static System.Console;
+
+    WriteLine("Digite a Hora que o jogo começou e a que termoinou [digite um valor e aparte espaço para digitar o outro]");
+    string[] ler = ReadLine().Split(' ');
+    int hora1 = int.Parse(ler[0]);
+    int hora2 = int.Parse(ler[1]);
+
+    bool verificacao = false;
+    bool verificacao2 = false;
+    int resultado = 0;
+
+    if (hora1 <= 11) {
+        verificacao = true;
+    }
+    else{
+        verificacao = false;
+    }
+
+    if (hora2 >= 12 && hora2 <= 23) {
+        verificacao2  = true;
+    }
+    else{    
+        verificacao2 = false;
+    }
+
+    if ( verificacao == true && verificacao2 == true)
+        resultado = hora2 - hora1;
+    else
+        resultado = 24+hora2-hora1;
+
+    WriteLine ($"O jogo durou {resultado} horas");

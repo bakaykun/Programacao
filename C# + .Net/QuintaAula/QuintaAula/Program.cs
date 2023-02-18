@@ -19,9 +19,15 @@ namespace QuintaAula
            b.B = double.Parse(ReadLine());
            b.C = double.Parse(ReadLine());
 
-           WriteLine($" a área de X é: {a.areaTriangulo(a.A, a.B, a.C)}");
-           WriteLine($" a área de Y é: {b.areaTriangulo(b.A, b.B, b.C)}");
+           double areaA = a.AreaTriangulo(a.A, a.B, a.C);
+           double areaB = b.AreaTriangulo(b.A, b.B, b.C);
 
+           WriteLine($" a área de X é: {areaA}");
+           WriteLine($" a área de Y é: {areaB}");
+            if (areaA > areaB)
+                WriteLine($"A área {areaA} é maior");
+            else 
+                WriteLine($"A área {areaB} é maior");
 
 
         }

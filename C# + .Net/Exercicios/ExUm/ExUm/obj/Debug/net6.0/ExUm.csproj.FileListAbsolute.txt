@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExUm\ExUm\obj\Debug\net6.0\ExUm.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExUm\ExUm\obj\Debug\net6.0\ExUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExUm\ExUm\obj\Debug\net6.0\ExUm.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExUm\ExUm\obj\Debug\net6.0\ExUm.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExUm\ExUm\obj\Debug\net6.0\ExUm.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExUm\ExUm\bin\Debug\net6.0\ExUm.exe
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExUm\ExUm\bin\Debug\net6.0\ExUm.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExUm\ExUm\bin\Debug\net6.0\ExUm.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExUm\ExUm\bin\Debug\net6.0\ExUm.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExUm\ExUm\bin\Debug\net6.0\ExUm.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExUm\ExUm\obj\Debug\net6.0\ExUm.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExUm\ExUm\obj\Debug\net6.0\refint\ExUm.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExUm\ExUm\obj\Debug\net6.0\ExUm.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExUm\ExUm\obj\Debug\net6.0\ExUm.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExUm\ExUm\obj\Debug\net6.0\ref\ExUm.dll

@@ -9,7 +9,7 @@ namespace QuintaAula
         public double C;
         
 
-        public double areaTriangulo(double A, double B, double C)
+        public double AreaTriangulo(double A, double B, double C)
         {
             double p = (A+B+C) / 2.0;
 

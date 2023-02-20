@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SextAula\SextaAula\obj\Debug\net6.0\SextaAula.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SextAula\SextaAula\obj\Debug\net6.0\SextaAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SextAula\SextaAula\obj\Debug\net6.0\SextaAula.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SextAula\SextaAula\obj\Debug\net6.0\SextaAula.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SextAula\SextaAula\obj\Debug\net6.0\SextaAula.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SextAula\SextaAula\bin\Debug\net6.0\SextaAula.exe
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SextAula\SextaAula\bin\Debug\net6.0\SextaAula.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SextAula\SextaAula\bin\Debug\net6.0\SextaAula.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SextAula\SextaAula\bin\Debug\net6.0\SextaAula.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SextAula\SextaAula\bin\Debug\net6.0\SextaAula.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SextAula\SextaAula\obj\Debug\net6.0\SextaAula.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SextAula\SextaAula\obj\Debug\net6.0\refint\SextaAula.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SextAula\SextaAula\obj\Debug\net6.0\SextaAula.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SextAula\SextaAula\obj\Debug\net6.0\SextaAula.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SextAula\SextaAula\obj\Debug\net6.0\ref\SextaAula.dll

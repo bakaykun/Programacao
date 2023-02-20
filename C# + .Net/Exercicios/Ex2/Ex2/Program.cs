@@ -1,9 +1,12 @@
 ﻿using static System.Console;
+using System.Globalization;
 
 namespace Ex2 
 {
     class Program 
     {
+
+    
     public void Ex01()
     {
         Retangulo ret;
@@ -34,10 +37,40 @@ namespace Ex2
         WriteLine(pessoa.ToString());
 
     }    
+
+    public void Ex03()
+    {
+        Aluno al = new Aluno();
+
+        Write("Nome do Aluno: ");
+        al.Nome = ReadLine();
+
+        WriteLine("Digite as Tres Notas Do Alunos: ");
+        for (int i = 0; i < 3; i++)
+        {
+            al.Notas[i] = double.Parse(ReadLine(), CultureInfo.InstalledUICulture);
+        }
+
+        WriteLine(al);
+
+        if (al.Nota() < 60){
+            Write($"Reprovado\n Faltam: {60-al.Nota().ToString("F2")} pontos para alcançar a média");
+        } else {
+            WriteLine(" Aprovado !");
+        }          
+    }
         static void Main(string[] args)
         {
 
+            Write("Qual a cotação do dólar? ");
+            double valorDolar = double.Parse(ReadLine(), CultureInfo.InstalledUICulture);
+
+            Write("Quantos dólares tu vai comprar? ");
+            double qtdDolar = double.Parse(ReadLine(), CultureInfo.InstalledUICulture);
+
+            Write($"Valora  ser pago em dólar: {ConversorMoeda.Conversor(valorDolar,qtdDolar).ToString("F2")}");
             
+
 
         }
     }

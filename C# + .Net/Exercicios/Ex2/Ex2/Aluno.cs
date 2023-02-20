@@ -3,10 +3,16 @@ namespace Ex2
     public class Aluno
     {
         public string Nome;
+        public double[] Notas = {0,0,0}; 
 
-        public double NotaFinal(double n1, double n2, double n3)
+        public double Nota()
         {
-            return n1+n2+n3;
+            return Notas[0]+Notas[1]+Notas[2];
+        }
+
+        public override string ToString()
+        {
+            return $"Nota Final {Nota().ToString("F2")}";
         }
     }
 }

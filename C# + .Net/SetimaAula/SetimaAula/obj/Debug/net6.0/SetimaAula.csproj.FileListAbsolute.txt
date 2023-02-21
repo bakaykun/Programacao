@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SetimaAula\SetimaAula\obj\Debug\net6.0\SetimaAula.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SetimaAula\SetimaAula\obj\Debug\net6.0\SetimaAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SetimaAula\SetimaAula\obj\Debug\net6.0\SetimaAula.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SetimaAula\SetimaAula\obj\Debug\net6.0\SetimaAula.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SetimaAula\SetimaAula\obj\Debug\net6.0\SetimaAula.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SetimaAula\SetimaAula\bin\Debug\net6.0\SetimaAula.exe
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SetimaAula\SetimaAula\bin\Debug\net6.0\SetimaAula.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SetimaAula\SetimaAula\bin\Debug\net6.0\SetimaAula.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SetimaAula\SetimaAula\bin\Debug\net6.0\SetimaAula.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SetimaAula\SetimaAula\bin\Debug\net6.0\SetimaAula.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SetimaAula\SetimaAula\obj\Debug\net6.0\SetimaAula.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SetimaAula\SetimaAula\obj\Debug\net6.0\refint\SetimaAula.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SetimaAula\SetimaAula\obj\Debug\net6.0\SetimaAula.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SetimaAula\SetimaAula\obj\Debug\net6.0\SetimaAula.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\SetimaAula\SetimaAula\obj\Debug\net6.0\ref\SetimaAula.dll

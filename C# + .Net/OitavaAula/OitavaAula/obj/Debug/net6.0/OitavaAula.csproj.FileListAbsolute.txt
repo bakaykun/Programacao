@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\OitavaAula\OitavaAula\bin\Debug\net6.0\OitavaAula.exe
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\OitavaAula\OitavaAula\bin\Debug\net6.0\OitavaAula.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\OitavaAula\OitavaAula\bin\Debug\net6.0\OitavaAula.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\OitavaAula\OitavaAula\bin\Debug\net6.0\OitavaAula.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\OitavaAula\OitavaAula\bin\Debug\net6.0\OitavaAula.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\OitavaAula\OitavaAula\obj\Debug\net6.0\OitavaAula.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\OitavaAula\OitavaAula\obj\Debug\net6.0\OitavaAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\OitavaAula\OitavaAula\obj\Debug\net6.0\OitavaAula.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\OitavaAula\OitavaAula\obj\Debug\net6.0\OitavaAula.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\OitavaAula\OitavaAula\obj\Debug\net6.0\OitavaAula.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\OitavaAula\OitavaAula\obj\Debug\net6.0\OitavaAula.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\OitavaAula\OitavaAula\obj\Debug\net6.0\refint\OitavaAula.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\OitavaAula\OitavaAula\obj\Debug\net6.0\OitavaAula.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\OitavaAula\OitavaAula\obj\Debug\net6.0\OitavaAula.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\OitavaAula\OitavaAula\obj\Debug\net6.0\ref\OitavaAula.dll

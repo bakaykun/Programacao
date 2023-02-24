@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System.Collections.Generic;
+using static System.Console;
+
+namespace ExQuatro {
+
+    class Program {
+
+        static void Main(){
+
+            
+        }
+    }
+}

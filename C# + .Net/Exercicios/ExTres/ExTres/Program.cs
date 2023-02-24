@@ -7,7 +7,7 @@ namespace ExTres
         static void Main()
         {
             int y = 1;
-            Write("How many roons will be rent? ");    
+            Write("How many rooms will be rent? ");    
             int qtd = int.Parse(ReadLine());
             Tenant[] guest = new Tenant[10];
 

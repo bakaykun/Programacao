@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\NonAula\NonAula\bin\Debug\net6.0\NonAula.exe
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\NonAula\NonAula\bin\Debug\net6.0\NonAula.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\NonAula\NonAula\bin\Debug\net6.0\NonAula.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\NonAula\NonAula\bin\Debug\net6.0\NonAula.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\NonAula\NonAula\bin\Debug\net6.0\NonAula.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\NonAula\NonAula\obj\Debug\net6.0\NonAula.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\NonAula\NonAula\obj\Debug\net6.0\NonAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\NonAula\NonAula\obj\Debug\net6.0\NonAula.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\NonAula\NonAula\obj\Debug\net6.0\NonAula.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\NonAula\NonAula\obj\Debug\net6.0\NonAula.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\NonAula\NonAula\obj\Debug\net6.0\NonAula.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\NonAula\NonAula\obj\Debug\net6.0\refint\NonAula.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\NonAula\NonAula\obj\Debug\net6.0\NonAula.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\NonAula\NonAula\obj\Debug\net6.0\NonAula.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\NonAula\NonAula\obj\Debug\net6.0\ref\NonAula.dll

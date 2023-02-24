@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bakay\\Documents\\Programação\\Programacao\\C# + .Net\\Exercicios\\ExQuatro\\ExQuatro\\ExQuatro.csproj": {}
+    "C:\\Users\\Bakay\\Documents\\Programação\\Programacao\\C#\\Exercicios\\ExQuatro\\ExQuatro\\ExQuatro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bakay\\Documents\\Programação\\Programacao\\C# + .Net\\Exercicios\\ExQuatro\\ExQuatro\\ExQuatro.csproj": {
+    "C:\\Users\\Bakay\\Documents\\Programação\\Programacao\\C#\\Exercicios\\ExQuatro\\ExQuatro\\ExQuatro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bakay\\Documents\\Programação\\Programacao\\C# + .Net\\Exercicios\\ExQuatro\\ExQuatro\\ExQuatro.csproj",
+        "projectUniqueName": "C:\\Users\\Bakay\\Documents\\Programação\\Programacao\\C#\\Exercicios\\ExQuatro\\ExQuatro\\ExQuatro.csproj",
         "projectName": "ExQuatro",
-        "projectPath": "C:\\Users\\Bakay\\Documents\\Programação\\Programacao\\C# + .Net\\Exercicios\\ExQuatro\\ExQuatro\\ExQuatro.csproj",
+        "projectPath": "C:\\Users\\Bakay\\Documents\\Programação\\Programacao\\C#\\Exercicios\\ExQuatro\\ExQuatro\\ExQuatro.csproj",
         "packagesPath": "C:\\Users\\Bakay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bakay\\Documents\\Programação\\Programacao\\C# + .Net\\Exercicios\\ExQuatro\\ExQuatro\\obj\\",
+        "outputPath": "C:\\Users\\Bakay\\Documents\\Programação\\Programacao\\C#\\Exercicios\\ExQuatro\\ExQuatro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bakay\\AppData\\Roaming\\NuGet\\NuGet.Config"

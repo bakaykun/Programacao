@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExQuatro\ExQuatro\bin\Debug\net6.0\ExQuatro.exe
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExQuatro\ExQuatro\bin\Debug\net6.0\ExQuatro.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExQuatro\ExQuatro\bin\Debug\net6.0\ExQuatro.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExQuatro\ExQuatro\bin\Debug\net6.0\ExQuatro.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExQuatro\ExQuatro\bin\Debug\net6.0\ExQuatro.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExQuatro\ExQuatro\obj\Debug\net6.0\ExQuatro.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExQuatro\ExQuatro\obj\Debug\net6.0\ExQuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExQuatro\ExQuatro\obj\Debug\net6.0\ExQuatro.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExQuatro\ExQuatro\obj\Debug\net6.0\ExQuatro.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExQuatro\ExQuatro\obj\Debug\net6.0\ExQuatro.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExQuatro\ExQuatro\obj\Debug\net6.0\ExQuatro.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExQuatro\ExQuatro\obj\Debug\net6.0\refint\ExQuatro.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExQuatro\ExQuatro\obj\Debug\net6.0\ExQuatro.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExQuatro\ExQuatro\obj\Debug\net6.0\ExQuatro.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C# + .Net\Exercicios\ExQuatro\ExQuatro\obj\Debug\net6.0\ref\ExQuatro.dll

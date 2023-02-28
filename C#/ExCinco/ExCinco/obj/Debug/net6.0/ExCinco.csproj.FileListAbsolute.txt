@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\C#\ExCinco\ExCinco\bin\Debug\net6.0\ExCinco.exe
+C:\Users\Bakay\Documents\Programação\Programacao\C#\ExCinco\ExCinco\bin\Debug\net6.0\ExCinco.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\ExCinco\ExCinco\bin\Debug\net6.0\ExCinco.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\ExCinco\ExCinco\bin\Debug\net6.0\ExCinco.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\ExCinco\ExCinco\bin\Debug\net6.0\ExCinco.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\ExCinco\ExCinco\obj\Debug\net6.0\ExCinco.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\ExCinco\ExCinco\obj\Debug\net6.0\ExCinco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\C#\ExCinco\ExCinco\obj\Debug\net6.0\ExCinco.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\ExCinco\ExCinco\obj\Debug\net6.0\ExCinco.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\C#\ExCinco\ExCinco\obj\Debug\net6.0\ExCinco.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\ExCinco\ExCinco\obj\Debug\net6.0\ExCinco.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\ExCinco\ExCinco\obj\Debug\net6.0\refint\ExCinco.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\ExCinco\ExCinco\obj\Debug\net6.0\ExCinco.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\ExCinco\ExCinco\obj\Debug\net6.0\ExCinco.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\ExCinco\ExCinco\obj\Debug\net6.0\ref\ExCinco.dll

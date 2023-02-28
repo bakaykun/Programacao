@@ -13,7 +13,7 @@ namespace ExQuatro {
             int numEmp = int.Parse(ReadLine());
 
             for (int i = 1; i <= numEmp; i++) {
-                
+
                 Write("Name: ");
                 string name = ReadLine();
                 Write("Id: ");
@@ -26,7 +26,7 @@ namespace ExQuatro {
 
             }
 
-            WriteLine(" The employee id the will have slary incrase: ");
+            WriteLine("The employee id the will have slary incrase: ");
             int idFi = int.Parse(ReadLine());
 
             Employee emp = empoloyes.Find(x => x.Id == idFi);

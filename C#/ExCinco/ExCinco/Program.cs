@@ -1,5 +1,6 @@
 ﻿using static System.Console;
 
+
 namespace ExCinco {
 
     class Prgram {
@@ -41,16 +42,8 @@ namespace ExCinco {
             for(int i = 0; i < l; i++) {
                 for(int j = 0; j < c; j++){
 
-                    //rigth = matriz[i,j+1].
-
                     if (numForSearch == matriz[i,j]){    
-                        Write($"O numero está na posiçã {i},{j}\n");
-                   }
-
-                   if (matriz.ge != null){
-                        Write($"Rigth: {matriz[i,j-1]}\n");
-                   } else {
-                    Write("Não encontrdo");
+                        Write($"O numero está na posiçã {i},{j}\n e {count}");
                    }
                 }
             }
@@ -62,6 +55,3 @@ namespace ExCinco {
     }
 }
                                          
-                     //Write($"A sua esquerda está {matriz[i,j+1]}\n");
-                     //Write($"á cima está {matriz[i-1,j]}\n");
-                     //Write($"á baixo está {matriz[i+1,j]}\n");

@@ -10,7 +10,7 @@ namespace ExCinco {
             string[] numbers = ReadLine().Split(' ');
             int l = int.Parse(numbers[0]);
             int c = int.Parse(numbers[1]);
-
+    
             int[,] matriz = new int[l,c];
 
             for (int i = 0; i < l; i++){
@@ -30,7 +30,7 @@ namespace ExCinco {
                 Write("\n");
             }
 
-            WriteLine("\n");
+            WriteLine(" ");
 
             int numForSearch = int.Parse(ReadLine());
 

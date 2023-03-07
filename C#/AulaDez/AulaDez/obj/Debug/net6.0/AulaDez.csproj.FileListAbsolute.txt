@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDez\AulaDez\obj\Debug\net6.0\AulaDez.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDez\AulaDez\obj\Debug\net6.0\AulaDez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDez\AulaDez\obj\Debug\net6.0\AulaDez.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDez\AulaDez\obj\Debug\net6.0\AulaDez.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDez\AulaDez\obj\Debug\net6.0\AulaDez.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDez\AulaDez\bin\Debug\net6.0\AulaDez.exe
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDez\AulaDez\bin\Debug\net6.0\AulaDez.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDez\AulaDez\bin\Debug\net6.0\AulaDez.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDez\AulaDez\bin\Debug\net6.0\AulaDez.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDez\AulaDez\bin\Debug\net6.0\AulaDez.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDez\AulaDez\obj\Debug\net6.0\AulaDez.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDez\AulaDez\obj\Debug\net6.0\refint\AulaDez.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDez\AulaDez\obj\Debug\net6.0\AulaDez.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDez\AulaDez\obj\Debug\net6.0\AulaDez.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDez\AulaDez\obj\Debug\net6.0\ref\AulaDez.dll

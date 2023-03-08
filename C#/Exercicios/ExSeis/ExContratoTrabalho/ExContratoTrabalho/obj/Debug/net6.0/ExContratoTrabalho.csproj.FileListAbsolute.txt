@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSeis\ExContratoTrabalho\ExContratoTrabalho\obj\Debug\net6.0\ExContratoTrabalho.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSeis\ExContratoTrabalho\ExContratoTrabalho\obj\Debug\net6.0\ExContratoTrabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSeis\ExContratoTrabalho\ExContratoTrabalho\obj\Debug\net6.0\ExContratoTrabalho.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSeis\ExContratoTrabalho\ExContratoTrabalho\obj\Debug\net6.0\ExContratoTrabalho.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSeis\ExContratoTrabalho\ExContratoTrabalho\obj\Debug\net6.0\ExContratoTrabalho.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSeis\ExContratoTrabalho\ExContratoTrabalho\bin\Debug\net6.0\ExContratoTrabalho.exe
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSeis\ExContratoTrabalho\ExContratoTrabalho\bin\Debug\net6.0\ExContratoTrabalho.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSeis\ExContratoTrabalho\ExContratoTrabalho\bin\Debug\net6.0\ExContratoTrabalho.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSeis\ExContratoTrabalho\ExContratoTrabalho\bin\Debug\net6.0\ExContratoTrabalho.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSeis\ExContratoTrabalho\ExContratoTrabalho\bin\Debug\net6.0\ExContratoTrabalho.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSeis\ExContratoTrabalho\ExContratoTrabalho\obj\Debug\net6.0\ExContratoTrabalho.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSeis\ExContratoTrabalho\ExContratoTrabalho\obj\Debug\net6.0\refint\ExContratoTrabalho.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSeis\ExContratoTrabalho\ExContratoTrabalho\obj\Debug\net6.0\ExContratoTrabalho.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSeis\ExContratoTrabalho\ExContratoTrabalho\obj\Debug\net6.0\ExContratoTrabalho.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSeis\ExContratoTrabalho\ExContratoTrabalho\obj\Debug\net6.0\ref\ExContratoTrabalho.dll

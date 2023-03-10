@@ -38,7 +38,7 @@ namespace OrderProducts.Entities
 
         public double Total()
         {
-            var sum = 0;
+            double sum = 0.0;
             foreach (OrderItem item in Items)
             {
                 sum += item.SubTotal();
@@ -50,20 +50,22 @@ namespace OrderProducts.Entities
         public override string ToString()
         {
             StringBuilder exb = new StringBuilder();
-            exb.AppendLine("Order Summary");
+            exb.AppendLine("Order Summary: ");
             exb.AppendLine("Order moment: " + Moment.ToString("dd/MM/yyy HH:mm:ss"));
-            exb.Append("Status: " + Status);
-            exb.Append("Client: ");
+            exb.AppendLine("Status: " + Status);
+            exb.AppendLine("Client: ");
             exb.Append(Client.Name);
             exb.Append(" ");
-            exb.Append(Client.BirthDate);
+            exb.AppendLine(Client.BirthDate.ToString("dd/MM/yyy"));
             exb.Append(" - ");
             exb.AppendLine(Client.Email);
-            exb.Append("Order items: ");
+            exb.AppendLine("Order items: ");
             foreach (OrderItem item in Items)
             {
-                exb.AppendLine(item);
+                exb.AppendLine(item.ToString());
             }
+
+            exb.AppendLine("Total: R$" + Total().ToString("F2"));
 
             return exb.ToString();
         }

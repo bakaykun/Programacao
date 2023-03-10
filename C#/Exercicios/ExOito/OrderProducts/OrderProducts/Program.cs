@@ -18,21 +18,21 @@ namespace OrderProducts
             Write("Email: ");
             string email = ReadLine();
             WriteLine("Birth Date: ");
-            DateTime bhtDate = DateTime.Parse(ReadLine());
+            DateTime bhtDate = DateTime.ParseExact(ReadLine(), "dd/MM/yyyy", System.Globalization.CultureInfo.InvariantCulture);
 
             Client c1 = new Client(name, email, bhtDate);
 
             WriteLine("Enter Order Data: ");
-            OrderStatus status = Enum.Parse(ReadLine());
+            OrderStatus status = Enum.Parse<OrderStatus>(ReadLine());
 
             Order order = new Order(DateTime.Now, status, c1);
 
             Write("How many items to this order? ");
             int nOrd = int.Parse(ReadLine());
 
-            for (int i = 1; i < nOrd; i++)
+            for (int i = 1; i <= nOrd; i++)
             {
-                Write($"Produc item #{i}");
+                Write($"Product item #{i}\n");
                 Write("Product Name: ");
                 string tProdName = ReadLine();
                 Write("Product Price: ");
@@ -49,8 +49,8 @@ namespace OrderProducts
 
             }
 
-            Write(" ");
-            WirteLien(order);
+            Write(" \n");
+            WriteLine(order);
             Write(" ");
 
 

@@ -30,14 +30,14 @@ namespace OrderProducts.Entities
         {
             StringBuilder exbOrd = new StringBuilder();
             exbOrd.Append(Product.Name);
-            exbOrd.Append(", ");
+            exbOrd.Append(", R$");
             exbOrd.Append(Price);
             exbOrd.Append(", ");
             exbOrd.Append("Quantity: ");
             exbOrd.Append(Quantity);
-            exbOrd.Append(" Subtotal: ");
+            exbOrd.Append(" Subtotal: R$");
             exbOrd.Append(SubTotal());
-            return exbOrd;
+            return exbOrd.ToString();
         }
     }
 }

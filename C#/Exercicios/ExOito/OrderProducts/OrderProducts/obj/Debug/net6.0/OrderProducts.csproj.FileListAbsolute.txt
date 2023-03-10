@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOito\OrderProducts\OrderProducts\obj\Debug\net6.0\OrderProducts.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOito\OrderProducts\OrderProducts\obj\Debug\net6.0\OrderProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOito\OrderProducts\OrderProducts\obj\Debug\net6.0\OrderProducts.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOito\OrderProducts\OrderProducts\obj\Debug\net6.0\OrderProducts.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOito\OrderProducts\OrderProducts\obj\Debug\net6.0\OrderProducts.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOito\OrderProducts\OrderProducts\bin\Debug\net6.0\OrderProducts.exe
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOito\OrderProducts\OrderProducts\bin\Debug\net6.0\OrderProducts.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOito\OrderProducts\OrderProducts\bin\Debug\net6.0\OrderProducts.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOito\OrderProducts\OrderProducts\bin\Debug\net6.0\OrderProducts.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOito\OrderProducts\OrderProducts\bin\Debug\net6.0\OrderProducts.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOito\OrderProducts\OrderProducts\obj\Debug\net6.0\OrderProducts.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOito\OrderProducts\OrderProducts\obj\Debug\net6.0\refint\OrderProducts.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOito\OrderProducts\OrderProducts\obj\Debug\net6.0\OrderProducts.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOito\OrderProducts\OrderProducts\obj\Debug\net6.0\OrderProducts.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOito\OrderProducts\OrderProducts\obj\Debug\net6.0\ref\OrderProducts.dll

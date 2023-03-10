@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSete\ExPostComment\ExPostComment\obj\Debug\net6.0\ExPostComment.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSete\ExPostComment\ExPostComment\obj\Debug\net6.0\ExPostComment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSete\ExPostComment\ExPostComment\obj\Debug\net6.0\ExPostComment.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSete\ExPostComment\ExPostComment\obj\Debug\net6.0\ExPostComment.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSete\ExPostComment\ExPostComment\obj\Debug\net6.0\ExPostComment.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSete\ExPostComment\ExPostComment\bin\Debug\net6.0\ExPostComment.exe
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSete\ExPostComment\ExPostComment\bin\Debug\net6.0\ExPostComment.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSete\ExPostComment\ExPostComment\bin\Debug\net6.0\ExPostComment.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSete\ExPostComment\ExPostComment\bin\Debug\net6.0\ExPostComment.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSete\ExPostComment\ExPostComment\bin\Debug\net6.0\ExPostComment.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSete\ExPostComment\ExPostComment\obj\Debug\net6.0\ExPostComment.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSete\ExPostComment\ExPostComment\obj\Debug\net6.0\refint\ExPostComment.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSete\ExPostComment\ExPostComment\obj\Debug\net6.0\ExPostComment.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSete\ExPostComment\ExPostComment\obj\Debug\net6.0\ExPostComment.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExSete\ExPostComment\ExPostComment\obj\Debug\net6.0\ref\ExPostComment.dll

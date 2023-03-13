@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaOnze\Heranca\Herenca\bin\Debug\net6.0\Herenca.exe
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaOnze\Heranca\Herenca\bin\Debug\net6.0\Herenca.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaOnze\Heranca\Herenca\bin\Debug\net6.0\Herenca.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaOnze\Heranca\Herenca\bin\Debug\net6.0\Herenca.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaOnze\Heranca\Herenca\bin\Debug\net6.0\Herenca.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaOnze\Heranca\Herenca\obj\Debug\net6.0\Herenca.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaOnze\Heranca\Herenca\obj\Debug\net6.0\Herenca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaOnze\Heranca\Herenca\obj\Debug\net6.0\Herenca.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaOnze\Heranca\Herenca\obj\Debug\net6.0\Herenca.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaOnze\Heranca\Herenca\obj\Debug\net6.0\Herenca.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaOnze\Heranca\Herenca\obj\Debug\net6.0\Herenca.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaOnze\Heranca\Herenca\obj\Debug\net6.0\refint\Herenca.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaOnze\Heranca\Herenca\obj\Debug\net6.0\Herenca.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaOnze\Heranca\Herenca\obj\Debug\net6.0\Herenca.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaOnze\Heranca\Herenca\obj\Debug\net6.0\ref\Herenca.dll

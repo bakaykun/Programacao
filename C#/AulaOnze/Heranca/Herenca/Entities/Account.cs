@@ -27,5 +27,12 @@ namespace Herenca.Entities
         {
             Balance += amount;
         }
+
+        public override string ToString()
+        {
+            return "Account Number: " + Number + " | " + 
+                "User: " + Holder + " | " +  
+                "Balance: " + Balance.ToString("F2");
+        }
     }
 }

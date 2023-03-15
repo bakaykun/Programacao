@@ -14,9 +14,20 @@ namespace Herenca.Entities
             InterestRate = interestRate;
         }
 
+        public SavingsAccount(int number, string holder, double balance) 
+            : base(number, holder, balance)
+        {
+        }
+
         public void UpdateBalance()
         {
             Balance += Balance * InterestRate;
+        }
+
+        public sealed override void Withdraw(double amount)
+        {
+            base.Withdraw(amount);
+            Balance -= 2.0;
         }
     }
 }

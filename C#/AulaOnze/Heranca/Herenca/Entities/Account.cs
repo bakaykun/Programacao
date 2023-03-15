@@ -18,9 +18,9 @@ namespace Herenca.Entities
             Balance = balance;
         }
 
-        public void Withdraw(double amount)
+        public virtual void Withdraw(double amount)
         {
-            Balance -=amount;
+            Balance -=amount + 5.0;
         }
 
         public void Deposit(double amount)
@@ -28,11 +28,12 @@ namespace Herenca.Entities
             Balance += amount;
         }
 
-        public override string ToString()
+        //evitando que não seja sobreposto de novo com a palavra sealed
+        public sealed override string ToString()
         {
             return "Account Number: " + Number + " | " + 
                 "User: " + Holder + " | " +  
-                "Balance: " + Balance.ToString("F2");
+                "Balance: " + "$" + Balance.ToString("F2");
         }
     }
 }

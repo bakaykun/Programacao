@@ -4,8 +4,7 @@ namespace Heranca
 {
     class Program 
     {
-        static void Main()
-        {
+        static void UpCastingAndDownCasting(){
             Account acc = new Account(1001, "Carlos0", 00.00);
 
             BussinesAccount bacc = new BussinesAccount(1002, "Maria", 0.50, 980.00);
@@ -29,7 +28,7 @@ namespace Heranca
             //Warning, this cast is not compatible
             //BussinesAccount acc6 = (BussinesAccount)acc3;
 
-            //How convert a subclss for subclass, remenber! Downcast is insegure convertion
+            //How convert a subclass for subclass, remenber! Downcast is insegure convertion
             //make the use only testing convertion whit operator is 
 
             //I can make a downcast with reserved word "as", reserved "is" only comparation
@@ -49,6 +48,19 @@ namespace Heranca
                 Write("Update sucessfull !\n\n");
                 WriteLine(acc6);
             }
+        }
+        static void Main()
+        {   
+            //usado a palavra virtual e base em ambas as classes
+
+            Account acc1 = new Account(1002, "Kelvin", 3560.00);
+            Account acc2 = new SavingsAccount(0023, "Patrick", 3569.00);
+
+            acc1.Withdraw(350.00);
+            acc2.Withdraw(250.00);
+
+            WriteLine(acc1);
+            WriteLine(acc2);
 
         }
     }

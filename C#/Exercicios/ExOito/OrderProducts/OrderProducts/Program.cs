@@ -22,7 +22,7 @@ namespace OrderProducts
 
             Client c1 = new Client(name, email, bhtDate);
 
-            WriteLine("Enter Order Data: ");
+            WriteLine("Enter Order Data Status: ");
             OrderStatus status = Enum.Parse<OrderStatus>(ReadLine());
 
             Order order = new Order(DateTime.Now, status, c1);

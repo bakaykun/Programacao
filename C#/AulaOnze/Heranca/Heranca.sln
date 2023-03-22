@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herenca", "Herenca\Herenca.csproj", "{6E6B840E-752E-4FF2-B242-744C50AC7165}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExProposto", "ExProposto", "{8DBC9B90-929D-4B63-A32F-12974E82A019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExProposto", "ExProposto\ExProposto\ExProposto.csproj", "{D17F21AA-3071-4052-BA20-62E6D86EFF1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,12 @@ Global
 		{6E6B840E-752E-4FF2-B242-744C50AC7165}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E6B840E-752E-4FF2-B242-744C50AC7165}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E6B840E-752E-4FF2-B242-744C50AC7165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17F21AA-3071-4052-BA20-62E6D86EFF1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17F21AA-3071-4052-BA20-62E6D86EFF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17F21AA-3071-4052-BA20-62E6D86EFF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17F21AA-3071-4052-BA20-62E6D86EFF1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D17F21AA-3071-4052-BA20-62E6D86EFF1C} = {8DBC9B90-929D-4B63-A32F-12974E82A019}
 	EndGlobalSection
 EndGlobal

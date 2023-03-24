@@ -17,9 +17,10 @@ namespace ExNove.Entites
             Price = price;
         }
 
-        public virtual double priceTag()
+        public virtual string priceTag()
         {
-            return Price;
+            return Name + 
+            " $" + Price.ToString("F2");
         }
 
     }

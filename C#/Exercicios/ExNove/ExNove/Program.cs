@@ -15,7 +15,7 @@ namespace ExNove
 
             for(int i = 1; i <= n; i++)
             {
-                Write("Commum, used or imported [c|u|i]?");
+                Write("Commum, used or imported [c|u|i]? ");
                 char op = char.Parse(ReadLine());
 
                 Write("Name: ");
@@ -35,7 +35,7 @@ namespace ExNove
                 } 
                 else 
                 {
-                    Write("Manufactured Date: (DD/MM/YYYY)");
+                    Write("Manufactured Date: (DD/MM/YYYY) ");
                     DateTime mfDate = DateTime.ParseExact(ReadLine(), "dd/MM/yyyy", InvariantCulture);
                     lstProduct.Add(new UsedProduct(name,price, mfDate));
                 }
@@ -44,6 +44,11 @@ namespace ExNove
             WriteLine("-----------\n");
 
             Write("Price Tags \n");
+
+            foreach(Product item in lstProduct)
+            {
+                WriteLine(item.priceTag());
+            }
 
         }
 

@@ -16,5 +16,10 @@ namespace ExNove.Entites
             ManufactureDate = manufactureDate;
         }
 
+        public override string priceTag()
+        {
+            return base.priceTag() + " (USED)" + "MANUFACTURED DATE: " + 
+            ManufactureDate.ToString("dd/MM/yyyy");
+        }
     }
 }

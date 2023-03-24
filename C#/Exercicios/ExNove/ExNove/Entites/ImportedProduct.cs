@@ -15,9 +15,16 @@ namespace ExNove.Entites
             CustomsFee = customsFee;
         }
 
-        public override double priceTag()
+        public double TotalPrice()
         {
-            return base.priceTag() + CustomsFee;
+            return CustomsFee + Price;
+        }
+
+        public override string priceTag()
+        {
+            return Name + 
+                " $" + TotalPrice().ToString("F2") + 
+                " (Customs fee: $" + CustomsFee + ")";
 
         }
 

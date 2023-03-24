@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExNove\ExNove\bin\Debug\net6.0\ExNove.exe
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExNove\ExNove\bin\Debug\net6.0\ExNove.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExNove\ExNove\bin\Debug\net6.0\ExNove.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExNove\ExNove\bin\Debug\net6.0\ExNove.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExNove\ExNove\bin\Debug\net6.0\ExNove.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExNove\ExNove\obj\Debug\net6.0\ExNove.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExNove\ExNove\obj\Debug\net6.0\ExNove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExNove\ExNove\obj\Debug\net6.0\ExNove.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExNove\ExNove\obj\Debug\net6.0\ExNove.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExNove\ExNove\obj\Debug\net6.0\ExNove.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExNove\ExNove\obj\Debug\net6.0\ExNove.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExNove\ExNove\obj\Debug\net6.0\refint\ExNove.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExNove\ExNove\obj\Debug\net6.0\ExNove.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExNove\ExNove\obj\Debug\net6.0\ExNove.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExNove\ExNove\obj\Debug\net6.0\ref\ExNove.dll

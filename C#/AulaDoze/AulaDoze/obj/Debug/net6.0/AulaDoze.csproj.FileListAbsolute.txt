@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDoze\AulaDoze\bin\Debug\net6.0\AulaDoze.exe
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDoze\AulaDoze\bin\Debug\net6.0\AulaDoze.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDoze\AulaDoze\bin\Debug\net6.0\AulaDoze.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDoze\AulaDoze\bin\Debug\net6.0\AulaDoze.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDoze\AulaDoze\bin\Debug\net6.0\AulaDoze.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDoze\AulaDoze\obj\Debug\net6.0\AulaDoze.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDoze\AulaDoze\obj\Debug\net6.0\AulaDoze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDoze\AulaDoze\obj\Debug\net6.0\AulaDoze.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDoze\AulaDoze\obj\Debug\net6.0\AulaDoze.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDoze\AulaDoze\obj\Debug\net6.0\AulaDoze.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDoze\AulaDoze\obj\Debug\net6.0\AulaDoze.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDoze\AulaDoze\obj\Debug\net6.0\refint\AulaDoze.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDoze\AulaDoze\obj\Debug\net6.0\AulaDoze.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDoze\AulaDoze\obj\Debug\net6.0\AulaDoze.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaDoze\AulaDoze\obj\Debug\net6.0\ref\AulaDoze.dll

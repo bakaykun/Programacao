@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExDez\ExDez\bin\Debug\net6.0\ExDez.exe
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExDez\ExDez\bin\Debug\net6.0\ExDez.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExDez\ExDez\bin\Debug\net6.0\ExDez.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExDez\ExDez\bin\Debug\net6.0\ExDez.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExDez\ExDez\bin\Debug\net6.0\ExDez.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExDez\ExDez\obj\Debug\net6.0\ExDez.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExDez\ExDez\obj\Debug\net6.0\ExDez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExDez\ExDez\obj\Debug\net6.0\ExDez.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExDez\ExDez\obj\Debug\net6.0\ExDez.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExDez\ExDez\obj\Debug\net6.0\ExDez.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExDez\ExDez\obj\Debug\net6.0\ExDez.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExDez\ExDez\obj\Debug\net6.0\refint\ExDez.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExDez\ExDez\obj\Debug\net6.0\ExDez.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExDez\ExDez\obj\Debug\net6.0\ExDez.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExDez\ExDez\obj\Debug\net6.0\ref\ExDez.dll

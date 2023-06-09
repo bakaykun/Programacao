@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaTreze\AulaTreze\obj\Debug\net6.0\AulaTreze.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaTreze\AulaTreze\obj\Debug\net6.0\AulaTreze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaTreze\AulaTreze\obj\Debug\net6.0\AulaTreze.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaTreze\AulaTreze\obj\Debug\net6.0\AulaTreze.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaTreze\AulaTreze\obj\Debug\net6.0\AulaTreze.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaTreze\AulaTreze\bin\Debug\net6.0\AulaTreze.exe
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaTreze\AulaTreze\bin\Debug\net6.0\AulaTreze.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaTreze\AulaTreze\bin\Debug\net6.0\AulaTreze.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaTreze\AulaTreze\bin\Debug\net6.0\AulaTreze.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaTreze\AulaTreze\bin\Debug\net6.0\AulaTreze.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaTreze\AulaTreze\obj\Debug\net6.0\AulaTreze.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaTreze\AulaTreze\obj\Debug\net6.0\refint\AulaTreze.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaTreze\AulaTreze\obj\Debug\net6.0\AulaTreze.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaTreze\AulaTreze\obj\Debug\net6.0\AulaTreze.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaTreze\AulaTreze\obj\Debug\net6.0\ref\AulaTreze.dll

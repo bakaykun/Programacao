@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaQuatorze\AulaQuatorze\obj\Debug\net6.0\AulaQuatorze.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaQuatorze\AulaQuatorze\obj\Debug\net6.0\AulaQuatorze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaQuatorze\AulaQuatorze\obj\Debug\net6.0\AulaQuatorze.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaQuatorze\AulaQuatorze\obj\Debug\net6.0\AulaQuatorze.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaQuatorze\AulaQuatorze\obj\Debug\net6.0\AulaQuatorze.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaQuatorze\AulaQuatorze\bin\Debug\net6.0\AulaQuatorze.exe
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaQuatorze\AulaQuatorze\bin\Debug\net6.0\AulaQuatorze.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaQuatorze\AulaQuatorze\bin\Debug\net6.0\AulaQuatorze.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaQuatorze\AulaQuatorze\bin\Debug\net6.0\AulaQuatorze.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaQuatorze\AulaQuatorze\bin\Debug\net6.0\AulaQuatorze.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaQuatorze\AulaQuatorze\obj\Debug\net6.0\AulaQuatorze.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaQuatorze\AulaQuatorze\obj\Debug\net6.0\refint\AulaQuatorze.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaQuatorze\AulaQuatorze\obj\Debug\net6.0\AulaQuatorze.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaQuatorze\AulaQuatorze\obj\Debug\net6.0\AulaQuatorze.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\AulaQuatorze\AulaQuatorze\obj\Debug\net6.0\ref\AulaQuatorze.dll

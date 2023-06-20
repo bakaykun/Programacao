@@ -11,26 +11,28 @@ namespace ExOnze
 
         static void Main() 
         {
+
+            Write("Coloque os dados da conta: \n");
+            Write("Número: ");
+            int n = int.Parse(ReadLine());
+            Write("Cliente: ");
+            string nome = ReadLine();
+            Write("Limite inicial: ");
+            double lmt = double.Parse(ReadLine());
+            Write("Limite de Saque: ");
+            double sq = double.Parse(ReadLine());
+
+            Write(" ");
+
+            Account ac = new Account(n,nome,lmt,sq);
+
+
+            Write("Coloque o valor para saque: ");
+            double vsq = double.Parse(ReadLine());
+
             try
             {
-                Write("Coloque os dados da conta: \n");
-                Write("Número: ");
-                int n = int.Parse(ReadLine());
-                Write("Cliente: ");
-                string nome = ReadLine();
-                Write("Limite inicial: ");
-                double lmt = double.Parse(ReadLine());
-                Write("Limite de Saque: ");
-                double sq = double.Parse(ReadLine());
-
-                Write(" ");
-                Account ac = new Account(n,nome,lmt,sq);
-
-                Write("Coloque o valor para saque: ");
-                double vsq = double.Parse(ReadLine());
-
                 ac.Saque(vsq);
-               
             }
             catch(DomainException e)
             {

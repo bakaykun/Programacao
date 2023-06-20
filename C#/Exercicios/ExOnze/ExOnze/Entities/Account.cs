@@ -37,9 +37,5 @@ namespace ExOnze.Entities
             Balance -= quantidade;
             System.Console.WriteLine("Saldo: " + Balance);
         }
-
-        public void Saldo(){
-            System.Console.WriteLine(Balance);
-        }
     }
 }

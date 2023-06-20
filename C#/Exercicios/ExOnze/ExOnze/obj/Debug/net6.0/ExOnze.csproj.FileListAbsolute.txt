@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOnze\ExOnze\obj\Debug\net6.0\ExOnze.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOnze\ExOnze\obj\Debug\net6.0\ExOnze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOnze\ExOnze\obj\Debug\net6.0\ExOnze.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOnze\ExOnze\obj\Debug\net6.0\ExOnze.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOnze\ExOnze\obj\Debug\net6.0\ExOnze.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOnze\ExOnze\bin\Debug\net6.0\ExOnze.exe
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOnze\ExOnze\bin\Debug\net6.0\ExOnze.deps.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOnze\ExOnze\bin\Debug\net6.0\ExOnze.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOnze\ExOnze\bin\Debug\net6.0\ExOnze.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOnze\ExOnze\bin\Debug\net6.0\ExOnze.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOnze\ExOnze\obj\Debug\net6.0\ExOnze.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOnze\ExOnze\obj\Debug\net6.0\refint\ExOnze.dll
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOnze\ExOnze\obj\Debug\net6.0\ExOnze.pdb
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOnze\ExOnze\obj\Debug\net6.0\ExOnze.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Programacao\C#\Exercicios\ExOnze\ExOnze\obj\Debug\net6.0\ref\ExOnze.dll

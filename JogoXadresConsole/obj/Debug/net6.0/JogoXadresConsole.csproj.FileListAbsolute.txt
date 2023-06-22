@@ -1,0 +1,15 @@
+C:\Users\Bakay\Documents\Programação\Projetos\jogoXadresConsole\JogoXadresConsole\bin\Debug\net6.0\JogoXadresConsole.exe
+C:\Users\Bakay\Documents\Programação\Projetos\jogoXadresConsole\JogoXadresConsole\bin\Debug\net6.0\JogoXadresConsole.deps.json
+C:\Users\Bakay\Documents\Programação\Projetos\jogoXadresConsole\JogoXadresConsole\bin\Debug\net6.0\JogoXadresConsole.runtimeconfig.json
+C:\Users\Bakay\Documents\Programação\Projetos\jogoXadresConsole\JogoXadresConsole\bin\Debug\net6.0\JogoXadresConsole.dll
+C:\Users\Bakay\Documents\Programação\Projetos\jogoXadresConsole\JogoXadresConsole\bin\Debug\net6.0\JogoXadresConsole.pdb
+C:\Users\Bakay\Documents\Programação\Projetos\jogoXadresConsole\JogoXadresConsole\obj\Debug\net6.0\JogoXadresConsole.csproj.AssemblyReference.cache
+C:\Users\Bakay\Documents\Programação\Projetos\jogoXadresConsole\JogoXadresConsole\obj\Debug\net6.0\JogoXadresConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakay\Documents\Programação\Projetos\jogoXadresConsole\JogoXadresConsole\obj\Debug\net6.0\JogoXadresConsole.AssemblyInfoInputs.cache
+C:\Users\Bakay\Documents\Programação\Projetos\jogoXadresConsole\JogoXadresConsole\obj\Debug\net6.0\JogoXadresConsole.AssemblyInfo.cs
+C:\Users\Bakay\Documents\Programação\Projetos\jogoXadresConsole\JogoXadresConsole\obj\Debug\net6.0\JogoXadresConsole.csproj.CoreCompileInputs.cache
+C:\Users\Bakay\Documents\Programação\Projetos\jogoXadresConsole\JogoXadresConsole\obj\Debug\net6.0\JogoXadresConsole.dll
+C:\Users\Bakay\Documents\Programação\Projetos\jogoXadresConsole\JogoXadresConsole\obj\Debug\net6.0\refint\JogoXadresConsole.dll
+C:\Users\Bakay\Documents\Programação\Projetos\jogoXadresConsole\JogoXadresConsole\obj\Debug\net6.0\JogoXadresConsole.pdb
+C:\Users\Bakay\Documents\Programação\Projetos\jogoXadresConsole\JogoXadresConsole\obj\Debug\net6.0\JogoXadresConsole.genruntimeconfig.cache
+C:\Users\Bakay\Documents\Programação\Projetos\jogoXadresConsole\JogoXadresConsole\obj\Debug\net6.0\ref\JogoXadresConsole.dll

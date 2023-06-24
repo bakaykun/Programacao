@@ -1,5 +1,5 @@
 ﻿using static System.Console;
-using Tabuleiro;
+using tabuleiro;
 
 namespace JogoXadresConsole
 {
@@ -7,9 +7,9 @@ namespace JogoXadresConsole
     {
         static void Main()
         {
-            Posicao p = new Posicao(4,5);
+            Tabuleiro tab = new Tabuleiro(8,8);
 
-            WriteLine("Posição: " + p);
+            
         }
     }
 }

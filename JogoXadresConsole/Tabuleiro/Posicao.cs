@@ -1,4 +1,4 @@
-namespace Tabuleiro
+namespace tabuleiro
 {
     public class Posicao
     {

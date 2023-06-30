@@ -8,11 +8,19 @@ namespace JogoXadresConsole
     {
         static void Main()
         {
-            PosicaoXadrez pos = new PosicaoXadrez('c',7);
+            try 
+            {
+                Tabuleiro tab = new Tabuleiro(8,8);
 
-            WriteLine(pos);
+                tab.colocarPeca(new Torre(tab, Cor.Preta),new Posicao(0,0));
+                tab.colocarPeca(new Torre(tab, Cor.Preta),new Posicao(1,3));
+                tab.colocarPeca(new Rei(tab, Cor.Preta),new Posicao(2,4));
 
-            WriteLine(pos.toPosicao());
+                Tela.imprimirTabuleiro(tab);
+            } 
+            catch(TabException e){
+                WriteLine(e.Message);
+            }
         }
     }
 }
